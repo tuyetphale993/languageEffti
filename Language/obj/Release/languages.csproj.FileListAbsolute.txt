@@ -31,3 +31,17 @@ D:\Language\bin\Release\commonLibs.dll
 D:\Language\bin\Release\commonTypes.dll
 D:\Language\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 D:\Language\bin\Release\vi-VN\commonLibs.resources.dll
+E:\LanguageEffti\Language\bin\Release\Language.dll
+E:\LanguageEffti\Language\bin\Release\Language.pdb
+E:\LanguageEffti\Language\bin\Release\vi-Vn\Language.resources.dll
+E:\LanguageEffti\Language\bin\Release\commonLibs.dll
+E:\LanguageEffti\Language\bin\Release\commonTypes.dll
+E:\LanguageEffti\Language\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\LanguageEffti\Language\bin\Release\vi-VN\commonLibs.resources.dll
+E:\LanguageEffti\Language\obj\Release\languages.csprojResolveAssemblyReference.cache
+E:\LanguageEffti\Language\obj\Release\Languages.myResources.resources
+E:\LanguageEffti\Language\obj\Release\Languages.myResources.vi-Vn.resources
+E:\LanguageEffti\Language\obj\Release\languages.csproj.GenerateResource.Cache
+E:\LanguageEffti\Language\obj\Release\vi-Vn\Language.resources.dll
+E:\LanguageEffti\Language\obj\Release\Language.dll
+E:\LanguageEffti\Language\obj\Release\Language.pdb

@@ -448,7 +448,7 @@
     <value>Let's go &amp; make the customers HAPPY, shall we?</value>
   </data>
   <data name="limitAPIAccessToTheFollowingIPAddresses" xml:space="preserve">
-    <value>Limit API access to the following IP addresses</value>
+    <value>Giới hạn truy cập API, chỉ cho phép các IP bên dưới truy cập</value>
   </data>
   <data name="logIn" xml:space="preserve">
     <value>Log in</value>
@@ -842,5 +842,17 @@
   </data>
   <data name="willTakeIt" xml:space="preserve">
     <value>Will take it</value>
+  </data>
+  <data name="callingTicket" xml:space="preserve">
+    <value>Calling Ticket</value>
+  </data>
+  <data name="candidateTicket" xml:space="preserve">
+    <value>Candidate Ticket</value>
+  </data>
+  <data name="chooseAnOrgText" xml:space="preserve">
+    <value>We see that you have access to more than one organization. Please select one to continue.</value>
+  </data>
+  <data name="departmentExceptionTooltip" xml:space="preserve">
+    <value>If you have one or more departments that do not follow the company guideline for appointment, then this is a good place to tell us about those departments.</value>
   </data>
 </root>

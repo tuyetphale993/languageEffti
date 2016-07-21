@@ -124,7 +124,7 @@
     <value>Thông tin tài khoản</value>
   </data>
   <data name="addDepartment" xml:space="preserve">
-    <value>Thêm bộ phận</value>
+    <value>Thêm phòng ban</value>
   </data>
   <data name="addNew" xml:space="preserve">
     <value>Thêm mới</value>
@@ -145,7 +145,7 @@
     <value>Tất cả phòng ban</value>
   </data>
   <data name="announcement" xml:space="preserve">
-    <value>announcement</value>
+    <value>Gọi số</value>
   </data>
   <data name="apiKey" xml:space="preserve">
     <value>Mã API</value>
@@ -175,10 +175,10 @@
     <value>Thanh toán</value>
   </data>
   <data name="byAppointment" xml:space="preserve">
-    <value>byAppointment</value>
+    <value>Theo lịch hẹn</value>
   </data>
   <data name="byTicketNumbersAndTheNumberRestarts" xml:space="preserve">
-    <value>byTicketNumbersAndTheNumberRestarts</value>
+    <value>Theo số ngẫu nhiên</value>
   </data>
   <data name="cancel" xml:space="preserve">
     <value>Hủy</value>
@@ -295,7 +295,7 @@
     <value>Phòng ban</value>
   </data>
   <data name="departmentException" xml:space="preserve">
-    <value>departmentException</value>
+    <value>Thiết lập ngoại lệ</value>
   </data>
   <data name="departmentNameRequired" xml:space="preserve">
     <value>Vui lòng nhập tên phòng ban!</value>
@@ -346,7 +346,7 @@
     <value>Email không được dài quá {0} ký tự. Vui lòng nhập lại email!</value>
   </data>
   <data name="enterHolidayName" xml:space="preserve">
-    <value>Nhập tên ngày lễ</value>
+    <value>Nhập tên ngày nghỉ</value>
   </data>
   <data name="enterItHereForVerification" xml:space="preserve">
     <value>Nhập mã xác nhận vào đây để xác thực</value>
@@ -418,7 +418,7 @@
     <value>Tên chủ thẻ không được dài quá {0} ký tự. Vui lòng nhập lại tên chủ thẻ!</value>
   </data>
   <data name="howDoesYourCompanyReceivesCustomers" xml:space="preserve">
-    <value>howDoesYourCompanyReceivesCustomers</value>
+    <value>Chọn loại lịch hẹn sẽ hỗ trợ</value>
   </data>
   <data name="ipAddress" xml:space="preserve">
     <value>Địa chỉ IP</value>
@@ -466,7 +466,7 @@
     <value>Nội dung</value>
   </data>
   <data name="minimumCalendarTimeSlot" xml:space="preserve">
-    <value>minimumCalendarTimeSlot</value>
+    <value>Thời gian tối thiểu cho một slot</value>
   </data>
   <data name="mins" xml:space="preserve">
     <value>phút</value>
@@ -478,7 +478,7 @@
     <value>Thứ hai</value>
   </data>
   <data name="moreHoliday" xml:space="preserve">
-    <value>Thêm ngày nghỉ lễ</value>
+    <value>Thêm ngày nghỉ</value>
   </data>
   <data name="moreIPAddress" xml:space="preserve">
     <value>Thêm địa chỉ IP</value>
@@ -535,7 +535,7 @@
     <value>Mật khẩu không được dài quá {0} ký tự!</value>
   </data>
   <data name="onlyProvideNumberTicketsFor" xml:space="preserve">
-    <value>onlyProvideNumberTicketsFor</value>
+    <value>Chỉ cung cấp lịch hẹn trong</value>
   </data>
   <data name="or" xml:space="preserve">
     <value>hoặc</value>
@@ -697,7 +697,7 @@
     <value>Đăng ký</value>
   </data>
   <data name="soWeCanLetTheCustomersKnowAboutThem" xml:space="preserve">
-    <value>soWeCanLetTheCustomersKnowAboutThem</value>
+    <value>Thông tin các ngày nghỉ</value>
   </data>
   <data name="statistics" xml:space="preserve">
     <value>Thống kê</value>
@@ -709,10 +709,10 @@
     <value>Chủ nhật</value>
   </data>
   <data name="tellUsYourHolidays" xml:space="preserve">
-    <value>Lịch nghỉ lễ</value>
+    <value>Lịch nghỉ</value>
   </data>
   <data name="tellUsYourWorkingHoursAndTheMaximumAppt" xml:space="preserve">
-    <value>tellUsYourWorkingHoursAndTheMaximumAppt</value>
+    <value>Thời gian làm việc và số lượt phục vụ tối đa</value>
   </data>
   <data name="thankYou" xml:space="preserve">
     <value>Cảm ơn</value>
@@ -757,7 +757,7 @@
     <value>Chọn ảnh</value>
   </data>
   <data name="usedApiToAccess" xml:space="preserve">
-    <value>usedApiToAccess</value>
+    <value>Nó được sử dụng để truy cập các dịch vụ của chúng tôi từ trang web của bạn hoặc ứng dụng của bạn.</value>
   </data>
   <data name="user" xml:space="preserve">
     <value>Người dùng</value>
@@ -842,5 +842,17 @@
   </data>
   <data name="willTakeIt" xml:space="preserve">
     <value>Chọn lịch hẹn này</value>
+  </data>
+  <data name="callingTicket" xml:space="preserve">
+    <value>Gọi số</value>
+  </data>
+  <data name="candidateTicket" xml:space="preserve">
+    <value>Số tiếp theo</value>
+  </data>
+  <data name="chooseAnOrgText" xml:space="preserve">
+    <value>Bạn có nhiều hơn một tổ thức, hãy chọn một tổ chức để tiếp tục.</value>
+  </data>
+  <data name="departmentExceptionTooltip" xml:space="preserve">
+    <value>Nếu bạn không muốn tất cả bộ phần có cùng thiết lập lịch hẹn với công ty, bạn có thể thiết lập lịch hẹn cho từng bộ phận tại đây.</value>
   </data>
 </root>

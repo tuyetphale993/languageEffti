@@ -259,6 +259,15 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Calling Ticket.
+        /// </summary>
+        internal static string callingTicket {
+            get {
+                return ResourceManager.GetString("callingTicket", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Cancel.
         /// </summary>
         internal static string cancel {
@@ -273,6 +282,15 @@ namespace Languages {
         internal static string cancelled {
             get {
                 return ResourceManager.GetString("cancelled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Candidate Ticket.
+        /// </summary>
+        internal static string candidateTicket {
+            get {
+                return ResourceManager.GetString("candidateTicket", resourceCulture);
             }
         }
         
@@ -381,6 +399,15 @@ namespace Languages {
         internal static string choose {
             get {
                 return ResourceManager.GetString("choose", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We see that you have access to more than one organization. Please select one to continue..
+        /// </summary>
+        internal static string chooseAnOrgText {
+            get {
+                return ResourceManager.GetString("chooseAnOrgText", resourceCulture);
             }
         }
         
@@ -642,6 +669,15 @@ namespace Languages {
         internal static string departmentException {
             get {
                 return ResourceManager.GetString("departmentException", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If you have one or more departments that do not follow the company guideline for appointment, then this is a good place to tell us about those departments..
+        /// </summary>
+        internal static string departmentExceptionTooltip {
+            get {
+                return ResourceManager.GetString("departmentExceptionTooltip", resourceCulture);
             }
         }
         
@@ -1105,7 +1141,7 @@ namespace Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Limit API access to the following IP addresses.
+        ///   Looks up a localized string similar to Giới hạn truy cập API, chỉ cho phép các IP bên dưới truy cập.
         /// </summary>
         internal static string limitAPIAccessToTheFollowingIPAddresses {
             get {
