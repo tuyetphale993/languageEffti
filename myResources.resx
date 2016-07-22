@@ -1,0 +1,858 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="account" xml:space="preserve">
+    <value>Account</value>
+  </data>
+  <data name="accountDetails" xml:space="preserve">
+    <value>Account details</value>
+  </data>
+  <data name="addDepartment" xml:space="preserve">
+    <value>Add department</value>
+  </data>
+  <data name="addNew" xml:space="preserve">
+    <value>Add new</value>
+  </data>
+  <data name="address" xml:space="preserve">
+    <value>Address</value>
+  </data>
+  <data name="addressRequired" xml:space="preserve">
+    <value>Address is required!</value>
+  </data>
+  <data name="addressTooLong" xml:space="preserve">
+    <value>Address must be less than {0} characters!</value>
+  </data>
+  <data name="advancedSettings" xml:space="preserve">
+    <value>Advanced Settings</value>
+  </data>
+  <data name="allDepartments" xml:space="preserve">
+    <value>All departments</value>
+  </data>
+  <data name="announcement" xml:space="preserve">
+    <value>Announcement</value>
+  </data>
+  <data name="apiKey" xml:space="preserve">
+    <value>API key</value>
+  </data>
+  <data name="apiKeyIsUnique" xml:space="preserve">
+    <value>API key is unique code assigned to your company.</value>
+  </data>
+  <data name="appointment" xml:space="preserve">
+    <value>Appointment</value>
+  </data>
+  <data name="appointments" xml:space="preserve">
+    <value>Appointments</value>
+  </data>
+  <data name="appointmentSettings" xml:space="preserve">
+    <value>Appointment settings</value>
+  </data>
+  <data name="averageTime" xml:space="preserve">
+    <value>Average time</value>
+  </data>
+  <data name="avg" xml:space="preserve">
+    <value>AVG</value>
+  </data>
+  <data name="back" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="billings" xml:space="preserve">
+    <value>Billings</value>
+  </data>
+  <data name="byAppointment" xml:space="preserve">
+    <value>By appointment</value>
+  </data>
+  <data name="byTicketNumbersAndTheNumberRestarts" xml:space="preserve">
+    <value>By ticket numbers &amp; the number restarts</value>
+  </data>
+  <data name="cancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="cancelled" xml:space="preserve">
+    <value>Cancelled</value>
+  </data>
+  <data name="captchaInvalid" xml:space="preserve">
+    <value>Captcha invalid!</value>
+  </data>
+  <data name="cardHolderName" xml:space="preserve">
+    <value>Card holder name</value>
+  </data>
+  <data name="cardNumber" xml:space="preserve">
+    <value>Card number</value>
+  </data>
+  <data name="cardNumberInvalid" xml:space="preserve">
+    <value>Invalid card number!</value>
+  </data>
+  <data name="cardNumberRequired" xml:space="preserve">
+    <value>Card number is required!</value>
+  </data>
+  <data name="cardNumberTooLong" xml:space="preserve">
+    <value>Card number must be less than {0} characters!</value>
+  </data>
+  <data name="change" xml:space="preserve">
+    <value>Change</value>
+  </data>
+  <data name="changeAvatar" xml:space="preserve">
+    <value>Change avatar</value>
+  </data>
+  <data name="changePassword" xml:space="preserve">
+    <value>Change password</value>
+  </data>
+  <data name="checkedIn" xml:space="preserve">
+    <value>Checked In</value>
+  </data>
+  <data name="checkIn" xml:space="preserve">
+    <value>Check-in</value>
+  </data>
+  <data name="chooseDate" xml:space="preserve">
+    <value>Choose date</value>
+  </data>
+  <data name="city" xml:space="preserve">
+    <value>City</value>
+  </data>
+  <data name="cityTooLong" xml:space="preserve">
+    <value>City must be less than {0} characters!</value>
+  </data>
+  <data name="clickIconsToViewList" xml:space="preserve">
+    <value>Click icons to view list</value>
+  </data>
+  <data name="clickOnAnyRow" xml:space="preserve">
+    <value>click on any row to check in</value>
+  </data>
+  <data name="code" xml:space="preserve">
+    <value>Code</value>
+  </data>
+  <data name="codeInvalid" xml:space="preserve">
+    <value>Code is invalid!</value>
+  </data>
+  <data name="codeRequired" xml:space="preserve">
+    <value>Code is required!</value>
+  </data>
+  <data name="company" xml:space="preserve">
+    <value>Company</value>
+  </data>
+  <data name="companyNameRequired" xml:space="preserve">
+    <value>Company name is required!</value>
+  </data>
+  <data name="companyNameTooLong" xml:space="preserve">
+    <value>Company name must be less than {0} characters!</value>
+  </data>
+  <data name="confirmGenerateAPIKey" xml:space="preserve">
+    <value>Re-generating API key may require some changes in your application.</value>
+  </data>
+  <data name="confirmination" xml:space="preserve">
+    <value>Confirmination</value>
+  </data>
+  <data name="contact" xml:space="preserve">
+    <value>Contact</value>
+  </data>
+  <data name="contactUs" xml:space="preserve">
+    <value>Contact Us</value>
+  </data>
+  <data name="country" xml:space="preserve">
+    <value>Country</value>
+  </data>
+  <data name="create" xml:space="preserve">
+    <value>Create</value>
+  </data>
+  <data name="createFailed" xml:space="preserve">
+    <value>Create failed!</value>
+  </data>
+  <data name="createSuccess" xml:space="preserve">
+    <value>Create success!</value>
+  </data>
+  <data name="createTicket" xml:space="preserve">
+    <value>Create ticket</value>
+  </data>
+  <data name="dashboard" xml:space="preserve">
+    <value>Dashboard</value>
+  </data>
+  <data name="dateFormat" xml:space="preserve">
+    <value>MM/dd/yyyy</value>
+  </data>
+  <data name="datePlaceHolder" xml:space="preserve">
+    <value>mm/dd/yyyy</value>
+  </data>
+  <data name="daysOfWeek" xml:space="preserve">
+    <value>Days of week</value>
+  </data>
+  <data name="department" xml:space="preserve">
+    <value>Department</value>
+  </data>
+  <data name="departmentException" xml:space="preserve">
+    <value>Department exception</value>
+  </data>
+  <data name="departmentNameRequired" xml:space="preserve">
+    <value>Department name is required!</value>
+  </data>
+  <data name="departmentNameTooLong" xml:space="preserve">
+    <value>Department name must be less than {0} characters!</value>
+  </data>
+  <data name="displayName" xml:space="preserve">
+    <value>Display name</value>
+  </data>
+  <data name="done" xml:space="preserve">
+    <value>Done</value>
+  </data>
+  <data name="dontHaveAnAccount" xml:space="preserve">
+    <value>Don't have an account?</value>
+  </data>
+  <data name="downloadFreeApp" xml:space="preserve">
+    <value>Download FREE App</value>
+  </data>
+  <data name="edit" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="emailExisted" xml:space="preserve">
+    <value>Email existed!</value>
+  </data>
+  <data name="emailInvalid" xml:space="preserve">
+    <value>Invalid email!</value>
+  </data>
+  <data name="emailOrPhone" xml:space="preserve">
+    <value>Email or phone</value>
+  </data>
+  <data name="emailOrPhoneInvalid" xml:space="preserve">
+    <value>Email or phone invalid!</value>
+  </data>
+  <data name="emailOrPhoneNumber" xml:space="preserve">
+    <value>Email or phone number</value>
+  </data>
+  <data name="emailOrPhoneRequired" xml:space="preserve">
+    <value>Email or phone is required!</value>
+  </data>
+  <data name="emailRequired" xml:space="preserve">
+    <value>Email is required!</value>
+  </data>
+  <data name="emailTooLong" xml:space="preserve">
+    <value>Email must be less than {0} characters!</value>
+  </data>
+  <data name="enterHolidayName" xml:space="preserve">
+    <value>Enter holiday name</value>
+  </data>
+  <data name="enterItHereForVerification" xml:space="preserve">
+    <value>Enter it here for verification</value>
+  </data>
+  <data name="enterYourCode" xml:space="preserve">
+    <value>Enter your code</value>
+  </data>
+  <data name="enterYourEmailOrMobilePhoneNumber" xml:space="preserve">
+    <value>Enter your email or mobile phone number</value>
+  </data>
+  <data name="expDateInvalid" xml:space="preserve">
+    <value>Invalid expiration!</value>
+  </data>
+  <data name="expDateRequired" xml:space="preserve">
+    <value>Expiration is required!</value>
+  </data>
+  <data name="expiration" xml:space="preserve">
+    <value>Expiration</value>
+  </data>
+  <data name="firstName" xml:space="preserve">
+    <value>First name</value>
+  </data>
+  <data name="firstNameRequired" xml:space="preserve">
+    <value>First name is required!</value>
+  </data>
+  <data name="firstNameTooLong" xml:space="preserve">
+    <value>First name must be less than {0} characters!</value>
+  </data>
+  <data name="forBusinesses" xml:space="preserve">
+    <value>For businesses</value>
+  </data>
+  <data name="forEveryOne" xml:space="preserve">
+    <value>For everyone</value>
+  </data>
+  <data name="forgotPassword" xml:space="preserve">
+    <value>Forgot password?</value>
+  </data>
+  <data name="free30DaysTrial" xml:space="preserve">
+    <value>FREE 30 Days Trial</value>
+  </data>
+  <data name="Friday" xml:space="preserve">
+    <value>Friday</value>
+  </data>
+  <data name="from" xml:space="preserve">
+    <value>from</value>
+  </data>
+  <data name="fromDate" xml:space="preserve">
+    <value>From date</value>
+  </data>
+  <data name="generateAPIFailed" xml:space="preserve">
+    <value>Generate API failed</value>
+  </data>
+  <data name="generateAPISuccess" xml:space="preserve">
+    <value>Generate API success</value>
+  </data>
+  <data name="go" xml:space="preserve">
+    <value>Go</value>
+  </data>
+  <data name="hello" xml:space="preserve">
+    <value>Hello</value>
+  </data>
+  <data name="holderName" xml:space="preserve">
+    <value>Holder name</value>
+  </data>
+  <data name="holderNameRequired" xml:space="preserve">
+    <value>Holder name is required!</value>
+  </data>
+  <data name="holderNameTooLong" xml:space="preserve">
+    <value>Holder name must be less than {0} characters!</value>
+  </data>
+  <data name="howDoesYourCompanyReceivesCustomers" xml:space="preserve">
+    <value>How does your company receives customers?</value>
+  </data>
+  <data name="ipAddress" xml:space="preserve">
+    <value>IP address</value>
+  </data>
+  <data name="iReadAndAccept" xml:space="preserve">
+    <value>I have read and I accept the Terms of Use and Privacy Statement</value>
+  </data>
+  <data name="lang.En" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="lang.Vi" xml:space="preserve">
+    <value>Vietnamese</value>
+  </data>
+  <data name="language" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="lastName" xml:space="preserve">
+    <value>Last name</value>
+  </data>
+  <data name="lastNameRequired" xml:space="preserve">
+    <value>Last name is required!</value>
+  </data>
+  <data name="lastNameTooLong" xml:space="preserve">
+    <value>Last name must be less than {0} characters!</value>
+  </data>
+  <data name="letGoMakeCustomerHappy" xml:space="preserve">
+    <value>Let's go &amp; make the customers HAPPY, shall we?</value>
+  </data>
+  <data name="limitAPIAccessToTheFollowingIPAddresses" xml:space="preserve">
+    <value>Giới hạn truy cập API, chỉ cho phép các IP bên dưới truy cập</value>
+  </data>
+  <data name="logIn" xml:space="preserve">
+    <value>Log in</value>
+  </data>
+  <data name="logout" xml:space="preserve">
+    <value>Logout</value>
+  </data>
+  <data name="maxAppts" xml:space="preserve">
+    <value>Max Appts</value>
+  </data>
+  <data name="maxWaitingTimeAfterCalled" xml:space="preserve">
+    <value>Max waiting time after called</value>
+  </data>
+  <data name="message" xml:space="preserve">
+    <value>Message</value>
+  </data>
+  <data name="minimumCalendarTimeSlot" xml:space="preserve">
+    <value>Minimum calendar time slot</value>
+  </data>
+  <data name="mins" xml:space="preserve">
+    <value>mins</value>
+  </data>
+  <data name="mobile" xml:space="preserve">
+    <value>Mobile</value>
+  </data>
+  <data name="Monday" xml:space="preserve">
+    <value>Monday</value>
+  </data>
+  <data name="moreHoliday" xml:space="preserve">
+    <value>More holiday</value>
+  </data>
+  <data name="moreIPAddress" xml:space="preserve">
+    <value>More IP address</value>
+  </data>
+  <data name="moreShift" xml:space="preserve">
+    <value>More shift</value>
+  </data>
+  <data name="name" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="networkMask" xml:space="preserve">
+    <value>Network mask</value>
+  </data>
+  <data name="newEmail" xml:space="preserve">
+    <value>New email</value>
+  </data>
+  <data name="newPassword" xml:space="preserve">
+    <value>New password</value>
+  </data>
+  <data name="newPasswordRequired" xml:space="preserve">
+    <value>New password is required!</value>
+  </data>
+  <data name="newPasswordTooLong" xml:space="preserve">
+    <value>Password must be less than {0} characters!</value>
+  </data>
+  <data name="next" xml:space="preserve">
+    <value>Next</value>
+  </data>
+  <data name="noInformation" xml:space="preserve">
+    <value>No information</value>
+  </data>
+  <data name="noShow" xml:space="preserve">
+    <value>No Show</value>
+  </data>
+  <data name="notifications" xml:space="preserve">
+    <value>Notifications</value>
+  </data>
+  <data name="notRecognizeLogin" xml:space="preserve">
+    <value>We do not recognize your login. Please try again.</value>
+  </data>
+  <data name="notRecognizeLoginAgain" xml:space="preserve">
+    <value>We still do not recognize your login. Please click on Forgot password below to get help.</value>
+  </data>
+  <data name="ok" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="oldPassword" xml:space="preserve">
+    <value>Old password</value>
+  </data>
+  <data name="oldPasswordRequired" xml:space="preserve">
+    <value>Old password is required!</value>
+  </data>
+  <data name="oldPasswordTooLong" xml:space="preserve">
+    <value>Old password must be less than {0} characters!</value>
+  </data>
+  <data name="onlyProvideNumberTicketsFor" xml:space="preserve">
+    <value>Only provide number tickets for</value>
+  </data>
+  <data name="or" xml:space="preserve">
+    <value>or</value>
+  </data>
+  <data name="organizationSettings" xml:space="preserve">
+    <value>Organization settings</value>
+  </data>
+  <data name="password" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="passwordRequired" xml:space="preserve">
+    <value>Password is required!</value>
+  </data>
+  <data name="passwordTooLong" xml:space="preserve">
+    <value>Password must be less than {0} characters!</value>
+  </data>
+  <data name="payment" xml:space="preserve">
+    <value>Payment</value>
+  </data>
+  <data name="phone" xml:space="preserve">
+    <value>Phone</value>
+  </data>
+  <data name="phoneInvalid" xml:space="preserve">
+    <value>Invalid phone!</value>
+  </data>
+  <data name="phoneTooLong" xml:space="preserve">
+    <value>Phone must be less than {0} characters!</value>
+  </data>
+  <data name="phoneTooShort" xml:space="preserve">
+    <value>Phone must be greater than {0} characters!</value>
+  </data>
+  <data name="pleaseEnterYourNewPassword" xml:space="preserve">
+    <value>Please enter your new password</value>
+  </data>
+  <data name="pleaseLogIn" xml:space="preserve">
+    <value>Please log in</value>
+  </data>
+  <data name="refresh" xml:space="preserve">
+    <value>Refresh</value>
+  </data>
+  <data name="reGenerate" xml:space="preserve">
+    <value>Re-generate</value>
+  </data>
+  <data name="region" xml:space="preserve">
+    <value>Region/State</value>
+  </data>
+  <data name="regionTooLong" xml:space="preserve">
+    <value>Region/State must be less than {0} characters!</value>
+  </data>
+  <data name="remindClientBeforeServing" xml:space="preserve">
+    <value>Remind client before serving</value>
+  </data>
+  <data name="removeFailed" xml:space="preserve">
+    <value>Remove failed!</value>
+  </data>
+  <data name="removeSuccess" xml:space="preserve">
+    <value>Remove success!</value>
+  </data>
+  <data name="reSend" xml:space="preserve">
+    <value>Re-send</value>
+  </data>
+  <data name="reSendCode" xml:space="preserve">
+    <value>Re-Send code</value>
+  </data>
+  <data name="reType" xml:space="preserve">
+    <value>Re-type</value>
+  </data>
+  <data name="reTypeInvalid" xml:space="preserve">
+    <value>Re-type password invalid!</value>
+  </data>
+  <data name="retypeNewPasswordRequired" xml:space="preserve">
+    <value>Retyping new password please!</value>
+  </data>
+  <data name="retypeNewPasswordTooLong" xml:space="preserve">
+    <value>Password must be less than {0} characters!</value>
+  </data>
+  <data name="reTypeRequired" xml:space="preserve">
+    <value>Re-type password is required!</value>
+  </data>
+  <data name="roles" xml:space="preserve">
+    <value>Roles</value>
+  </data>
+  <data name="Saturday" xml:space="preserve">
+    <value>Saturday</value>
+  </data>
+  <data name="save" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="saveLocation" xml:space="preserve">
+    <value>Save location</value>
+  </data>
+  <data name="search" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="secureCodeRequired" xml:space="preserve">
+    <value>Secure code is required!</value>
+  </data>
+  <data name="secureCodeTooLong" xml:space="preserve">
+    <value>Secure code must be less than {0} characters!</value>
+  </data>
+  <data name="securityCode" xml:space="preserve">
+    <value>Security code</value>
+  </data>
+  <data name="seeMore" xml:space="preserve">
+    <value>See more</value>
+  </data>
+  <data name="select" xml:space="preserve">
+    <value>Select</value>
+  </data>
+  <data name="selectADepartment" xml:space="preserve">
+    <value>Select a department</value>
+  </data>
+  <data name="send" xml:space="preserve">
+    <value>Send</value>
+  </data>
+  <data name="sendTo" xml:space="preserve">
+    <value>Send to</value>
+  </data>
+  <data name="serviceName" xml:space="preserve">
+    <value>Service name</value>
+  </data>
+  <data name="serviceNameRequired" xml:space="preserve">
+    <value>Service name is required!</value>
+  </data>
+  <data name="serviceNameTooLong" xml:space="preserve">
+    <value>Service name must be less than {0} characters!</value>
+  </data>
+  <data name="services" xml:space="preserve">
+    <value>Services</value>
+  </data>
+  <data name="shift" xml:space="preserve">
+    <value>Shift</value>
+  </data>
+  <data name="shortFriday" xml:space="preserve">
+    <value>Fri</value>
+  </data>
+  <data name="shortMonday" xml:space="preserve">
+    <value>Mon</value>
+  </data>
+  <data name="shortSaturday" xml:space="preserve">
+    <value>Sat</value>
+  </data>
+  <data name="shortSunday" xml:space="preserve">
+    <value>Sun</value>
+  </data>
+  <data name="shortThursday" xml:space="preserve">
+    <value>Thu</value>
+  </data>
+  <data name="shortTuesday" xml:space="preserve">
+    <value>Tue</value>
+  </data>
+  <data name="shortWednesday" xml:space="preserve">
+    <value>Wed</value>
+  </data>
+  <data name="signIn" xml:space="preserve">
+    <value>Sign In</value>
+  </data>
+  <data name="signUp" xml:space="preserve">
+    <value>Sign Up</value>
+  </data>
+  <data name="soWeCanLetTheCustomersKnowAboutThem" xml:space="preserve">
+    <value>so we can let the customers know about them</value>
+  </data>
+  <data name="statistics" xml:space="preserve">
+    <value>Statistics</value>
+  </data>
+  <data name="subcriberSignUp" xml:space="preserve">
+    <value>Subcriber SignUp</value>
+  </data>
+  <data name="Sunday" xml:space="preserve">
+    <value>Sunday</value>
+  </data>
+  <data name="tellUsYourHolidays" xml:space="preserve">
+    <value>Tell us your holidays</value>
+  </data>
+  <data name="tellUsYourWorkingHoursAndTheMaximumAppt" xml:space="preserve">
+    <value>Tell us your working hours (shifts) &amp; the maximum appointments you can handle per shift</value>
+  </data>
+  <data name="thankYou" xml:space="preserve">
+    <value>Thank you</value>
+  </data>
+  <data name="theCodeHadSentTo" xml:space="preserve">
+    <value>The code had sent to</value>
+  </data>
+  <data name="Thursday" xml:space="preserve">
+    <value>Thursday</value>
+  </data>
+  <data name="ticket" xml:space="preserve">
+    <value>Ticket</value>
+  </data>
+  <data name="ticketList" xml:space="preserve">
+    <value>Ticket list</value>
+  </data>
+  <data name="ticketsFound" xml:space="preserve">
+    <value>{0} tickets found</value>
+  </data>
+  <data name="timeZone" xml:space="preserve">
+    <value>Time zone</value>
+  </data>
+  <data name="title" xml:space="preserve">
+    <value>Title</value>
+  </data>
+  <data name="to" xml:space="preserve">
+    <value>to</value>
+  </data>
+  <data name="toDate" xml:space="preserve">
+    <value>To date</value>
+  </data>
+  <data name="Tuesday" xml:space="preserve">
+    <value>Tuesday</value>
+  </data>
+  <data name="updateFailed" xml:space="preserve">
+    <value>Update failed!</value>
+  </data>
+  <data name="updateSuccess" xml:space="preserve">
+    <value>Update success!</value>
+  </data>
+  <data name="uploadPhoto" xml:space="preserve">
+    <value>Upload photo</value>
+  </data>
+  <data name="usedApiToAccess" xml:space="preserve">
+    <value>It is used in API to access our services from your web site or your app.</value>
+  </data>
+  <data name="user" xml:space="preserve">
+    <value>User</value>
+  </data>
+  <data name="userDetails" xml:space="preserve">
+    <value>User details</value>
+  </data>
+  <data name="username" xml:space="preserve">
+    <value>Username</value>
+  </data>
+  <data name="users" xml:space="preserve">
+    <value>Users</value>
+  </data>
+  <data name="verify" xml:space="preserve">
+    <value>Verify</value>
+  </data>
+  <data name="verifyYourAccount" xml:space="preserve">
+    <value>Verify your account</value>
+  </data>
+  <data name="viewPriceList" xml:space="preserve">
+    <value>View price list</value>
+  </data>
+  <data name="waiting" xml:space="preserve">
+    <value>Waiting</value>
+  </data>
+  <data name="waitingList" xml:space="preserve">
+    <value>Waiting List</value>
+  </data>
+  <data name="website" xml:space="preserve">
+    <value>Website</value>
+  </data>
+  <data name="websiteTooLong" xml:space="preserve">
+    <value>Website address must be less than {0} characters!</value>
+  </data>
+  <data name="Wednesday" xml:space="preserve">
+    <value>Wednesday</value>
+  </data>
+  <data name="whenToRestartTicketNumber" xml:space="preserve">
+    <value>When to restart ticket number</value>
+  </data>
+  <data name="workDays" xml:space="preserve">
+    <value>work days</value>
+  </data>
+  <data name="yourAccountWasCreatedSuccessFully" xml:space="preserve">
+    <value>Your account was created successfully!</value>
+  </data>
+  <data name="yourAPIKey" xml:space="preserve">
+    <value>Your API key</value>
+  </data>
+  <data name="yourPassword" xml:space="preserve">
+    <value>Your password</value>
+  </data>
+  <data name="available" xml:space="preserve">
+    <value>Available</value>
+  </data>
+  <data name="choose" xml:space="preserve">
+    <value>Choose</value>
+  </data>
+  <data name="chooseAppointment" xml:space="preserve">
+    <value>Choose appointment</value>
+  </data>
+  <data name="date" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="full" xml:space="preserve">
+    <value>Full</value>
+  </data>
+  <data name="noHaveSlot" xml:space="preserve">
+    <value>No have slot</value>
+  </data>
+  <data name="overBooked" xml:space="preserve">
+    <value>Over booked</value>
+  </data>
+  <data name="time" xml:space="preserve">
+    <value>Time</value>
+  </data>
+  <data name="days" xml:space="preserve">
+    <value>days</value>
+  </data>
+  <data name="status" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="willTakeIt" xml:space="preserve">
+    <value>Will take it</value>
+  </data>
+  <data name="callingTicket" xml:space="preserve">
+    <value>Calling Ticket</value>
+  </data>
+  <data name="candidateTicket" xml:space="preserve">
+    <value>Candidate Ticket</value>
+  </data>
+  <data name="chooseAnOrgText" xml:space="preserve">
+    <value>We see that you have access to more than one organization. Please select one to continue.</value>
+  </data>
+  <data name="departmentExceptionTooltip" xml:space="preserve">
+    <value>If you have one or more departments that do not follow the company guideline for appointment, then this is a good place to tell us about those departments.</value>
+  </data>
+</root>

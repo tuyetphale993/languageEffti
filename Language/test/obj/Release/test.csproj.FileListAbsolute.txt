@@ -1,6 +1,0 @@
-E:\LanguageEffti\Language\test\bin\Release\test.exe.config
-E:\LanguageEffti\Language\test\bin\Release\test.exe
-E:\LanguageEffti\Language\test\bin\Release\test.pdb
-E:\LanguageEffti\Language\test\obj\Release\test.csprojResolveAssemblyReference.cache
-E:\LanguageEffti\Language\test\obj\Release\test.exe
-E:\LanguageEffti\Language\test\obj\Release\test.pdb
