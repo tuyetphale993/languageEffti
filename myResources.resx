@@ -855,4 +855,22 @@
   <data name="departmentExceptionTooltip" xml:space="preserve">
     <value>If you have one or more departments that do not follow the company guideline for appointment, then this is a good place to tell us about those departments.</value>
   </data>
+  <data name="ticketCalled" xml:space="preserve">
+    <value>{0} : Ticket was called !</value>
+  </data>
+  <data name="ticketCanceled" xml:space="preserve">
+    <value>{0} : Ticket was cancelled</value>
+  </data>
+  <data name="ticketEstDateChanged" xml:space="preserve">
+    <value>{0} : Time was changed</value>
+  </data>
+  <data name="ticketPending" xml:space="preserve">
+    <value>{0} : Ticket was re-scheduled</value>
+  </data>
+  <data name="ticketPickuped" xml:space="preserve">
+    <value>{0} : Ticket was pickuped to waiting list</value>
+  </data>
+  <data name="ticketSent" xml:space="preserve">
+    <value>{0} : Ticket sent to {1}</value>
+  </data>
 </root>

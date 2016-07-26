@@ -855,4 +855,22 @@
   <data name="departmentExceptionTooltip" xml:space="preserve">
     <value>Nếu bạn không muốn tất cả bộ phần có cùng thiết lập lịch hẹn với công ty, bạn có thể thiết lập lịch hẹn cho từng bộ phận tại đây.</value>
   </data>
+  <data name="ticketCalled" xml:space="preserve">
+    <value>{0} : Số đã được gọi</value>
+  </data>
+  <data name="ticketCanceled" xml:space="preserve">
+    <value>{0} : Số đã bị hủy</value>
+  </data>
+  <data name="ticketEstDateChanged" xml:space="preserve">
+    <value>{0} : Giờ hẹn đã được thay đổi</value>
+  </data>
+  <data name="ticketPending" xml:space="preserve">
+    <value>{0} : Đã sắp xếp lại giờ hẹn với quý vị</value>
+  </data>
+  <data name="ticketPickuped" xml:space="preserve">
+    <value>{0} : Số được xếp vào hàng đợi</value>
+  </data>
+  <data name="ticketSent" xml:space="preserve">
+    <value>{0} : Số đã được gởi đến {1}</value>
+  </data>
 </root>

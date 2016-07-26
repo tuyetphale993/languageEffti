@@ -2005,11 +2005,65 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0} : Ticket was called !.
+        /// </summary>
+        internal static string ticketCalled {
+            get {
+                return ResourceManager.GetString("ticketCalled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} : Ticket was cancelled.
+        /// </summary>
+        internal static string ticketCanceled {
+            get {
+                return ResourceManager.GetString("ticketCanceled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} : Time was changed.
+        /// </summary>
+        internal static string ticketEstDateChanged {
+            get {
+                return ResourceManager.GetString("ticketEstDateChanged", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Ticket list.
         /// </summary>
         internal static string ticketList {
             get {
                 return ResourceManager.GetString("ticketList", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} : Ticket was re-scheduled.
+        /// </summary>
+        internal static string ticketPending {
+            get {
+                return ResourceManager.GetString("ticketPending", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} : Ticket was pickuped to waiting list.
+        /// </summary>
+        internal static string ticketPickuped {
+            get {
+                return ResourceManager.GetString("ticketPickuped", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} : Ticket sent to {1}.
+        /// </summary>
+        internal static string ticketSent {
+            get {
+                return ResourceManager.GetString("ticketSent", resourceCulture);
             }
         }
         
