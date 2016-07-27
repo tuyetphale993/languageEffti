@@ -253,7 +253,7 @@
     <value>Tên công ty không được dài quá {0} ký tự. Vui lòng nhập lại tên công ty!</value>
   </data>
   <data name="confirmGenerateAPIKey" xml:space="preserve">
-    <value>Tạo lại mã API có thể yêu cầu một vài thay đổi trong hệ thống của bạn</value>
+    <value>Tạo lại mã API có thể yêu cầu một vài thay đổi trong hệ thống của bạn.</value>
   </data>
   <data name="confirmination" xml:space="preserve">
     <value>Xác nhận</value>
