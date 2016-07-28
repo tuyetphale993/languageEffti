@@ -873,4 +873,19 @@
   <data name="ticketSent" xml:space="preserve">
     <value>{0} : Ticket sent to {1}</value>
   </data>
+  <data name="backDoctorList" xml:space="preserve">
+    <value>Back to doctor list</value>
+  </data>
+  <data name="chooseDoctorFailed" xml:space="preserve">
+    <value>Choose doctor failed!</value>
+  </data>
+  <data name="chooseDoctorSuccess" xml:space="preserve">
+    <value>Choose doctor successfully!</value>
+  </data>
+  <data name="doctorList" xml:space="preserve">
+    <value>Doctor List</value>
+  </data>
+  <data name="selectDoctors" xml:space="preserve">
+    <value>Select Doctor</value>
+  </data>
 </root>

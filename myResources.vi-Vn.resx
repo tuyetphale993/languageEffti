@@ -873,4 +873,19 @@
   <data name="ticketSent" xml:space="preserve">
     <value>{0} : Số đã được gởi đến {1}</value>
   </data>
+  <data name="backDoctorList" xml:space="preserve">
+    <value>Trở lại danh sách bác sĩ</value>
+  </data>
+  <data name="chooseDoctorFailed" xml:space="preserve">
+    <value>Chọn bác sĩ thất bại!</value>
+  </data>
+  <data name="chooseDoctorSuccess" xml:space="preserve">
+    <value>Chọn bác sĩ thành công!</value>
+  </data>
+  <data name="doctorList" xml:space="preserve">
+    <value>Danh sách bác sĩ</value>
+  </data>
+  <data name="selectDoctors" xml:space="preserve">
+    <value>Chọn bác sĩ</value>
+  </data>
 </root>

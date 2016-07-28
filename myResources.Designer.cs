@@ -232,6 +232,15 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Back to doctor list.
+        /// </summary>
+        internal static string backDoctorList {
+            get {
+                return ResourceManager.GetString("backDoctorList", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Billings.
         /// </summary>
         internal static string billings {
@@ -426,6 +435,24 @@ namespace Languages {
         internal static string chooseDate {
             get {
                 return ResourceManager.GetString("chooseDate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Choose doctor failed!.
+        /// </summary>
+        internal static string chooseDoctorFailed {
+            get {
+                return ResourceManager.GetString("chooseDoctorFailed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Choose doctor successfully!.
+        /// </summary>
+        internal static string chooseDoctorSuccess {
+            get {
+                return ResourceManager.GetString("chooseDoctorSuccess", resourceCulture);
             }
         }
         
@@ -705,6 +732,15 @@ namespace Languages {
         internal static string displayName {
             get {
                 return ResourceManager.GetString("displayName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Doctor List.
+        /// </summary>
+        internal static string doctorList {
+            get {
+                return ResourceManager.GetString("doctorList", resourceCulture);
             }
         }
         
@@ -1758,6 +1794,15 @@ namespace Languages {
         internal static string selectADepartment {
             get {
                 return ResourceManager.GetString("selectADepartment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select Doctor.
+        /// </summary>
+        internal static string selectDoctors {
+            get {
+                return ResourceManager.GetString("selectDoctors", resourceCulture);
             }
         }
         
