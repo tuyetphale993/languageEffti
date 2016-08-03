@@ -231,9 +231,6 @@
   <data name="clickIconsToViewList" xml:space="preserve">
     <value>Click icons to view list</value>
   </data>
-  <data name="clickOnAnyRow" xml:space="preserve">
-    <value>click on any row to check in</value>
-  </data>
   <data name="code" xml:space="preserve">
     <value>Code</value>
   </data>

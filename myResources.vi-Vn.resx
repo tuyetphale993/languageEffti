@@ -169,7 +169,7 @@
     <value>TB</value>
   </data>
   <data name="back" xml:space="preserve">
-    <value>Trờ về</value>
+    <value>Trở về</value>
   </data>
   <data name="billings" xml:space="preserve">
     <value>Thanh toán</value>
@@ -230,9 +230,6 @@
   </data>
   <data name="clickIconsToViewList" xml:space="preserve">
     <value>Nhấn vào biểu tượng để xem danh sách</value>
-  </data>
-  <data name="clickOnAnyRow" xml:space="preserve">
-    <value>clickOnAnyRow</value>
   </data>
   <data name="code" xml:space="preserve">
     <value>Mã</value>
