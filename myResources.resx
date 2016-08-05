@@ -231,9 +231,6 @@
   <data name="clickIconsToViewList" xml:space="preserve">
     <value>Click icons to view list</value>
   </data>
-  <data name="clickOnAnyRow" xml:space="preserve">
-    <value>click on any row to check in</value>
-  </data>
   <data name="code" xml:space="preserve">
     <value>Code</value>
   </data>
@@ -444,7 +441,7 @@
   <data name="lastNameTooLong" xml:space="preserve">
     <value>Last name must be less than {0} characters!</value>
   </data>
-  <data name="letGoMakeCustomerHappy" xml:space="preserve">
+  <data name="letGoMakeCustomersHappy" xml:space="preserve">
     <value>Let's go &amp; make the customers HAPPY, shall we?</value>
   </data>
   <data name="limitAPIAccessToTheFollowingIPAddresses" xml:space="preserve">

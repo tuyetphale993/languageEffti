@@ -484,15 +484,6 @@ namespace Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to click on any row to check in.
-        /// </summary>
-        internal static string clickOnAnyRow {
-            get {
-                return ResourceManager.GetString("clickOnAnyRow", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Code.
         /// </summary>
         internal static string code {
@@ -1170,9 +1161,9 @@ namespace Languages {
         /// <summary>
         ///   Looks up a localized string similar to Let&apos;s go &amp; make the customers HAPPY, shall we?.
         /// </summary>
-        internal static string letGoMakeCustomerHappy {
+        internal static string letGoMakeCustomersHappy {
             get {
-                return ResourceManager.GetString("letGoMakeCustomerHappy", resourceCulture);
+                return ResourceManager.GetString("letGoMakeCustomersHappy", resourceCulture);
             }
         }
         
