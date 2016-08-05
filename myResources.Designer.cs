@@ -538,6 +538,51 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Confirm Code.
+        /// </summary>
+        internal static string confirmCode {
+            get {
+                return ResourceManager.GetString("confirmCode", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you want to remove department {0}?.
+        /// </summary>
+        internal static string confirmDeleteDepartment {
+            get {
+                return ResourceManager.GetString("confirmDeleteDepartment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you want to remove IP address {0}?.
+        /// </summary>
+        internal static string confirmDeleteIPAddress {
+            get {
+                return ResourceManager.GetString("confirmDeleteIPAddress", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you want to remove member {0}?.
+        /// </summary>
+        internal static string confirmDeleteMember {
+            get {
+                return ResourceManager.GetString("confirmDeleteMember", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you want to remove shift {0}?.
+        /// </summary>
+        internal static string confirmDeleteShift {
+            get {
+                return ResourceManager.GetString("confirmDeleteShift", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Re-generating API key may require some changes in your application..
         /// </summary>
         internal static string confirmGenerateAPIKey {
@@ -552,6 +597,24 @@ namespace Languages {
         internal static string confirmination {
             get {
                 return ResourceManager.GetString("confirmination", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you want to update the company position on map?.
+        /// </summary>
+        internal static string confirmUpdateOrgMap {
+            get {
+                return ResourceManager.GetString("confirmUpdateOrgMap", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you want to change role of user {0}?.
+        /// </summary>
+        internal static string confirmUpdateUserRole {
+            get {
+                return ResourceManager.GetString("confirmUpdateUserRole", resourceCulture);
             }
         }
         
@@ -718,6 +781,24 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Your old email or phone number is {0}. You can change it at here!.
+        /// </summary>
+        internal static string descriptChangeEmail {
+            get {
+                return ResourceManager.GetString("descriptChangeEmail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Confirm code sent to your email or phone number.
+        /// </summary>
+        internal static string descriptConfirmCode {
+            get {
+                return ResourceManager.GetString("descriptConfirmCode", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Display name.
         /// </summary>
         internal static string displayName {
@@ -867,15 +948,6 @@ namespace Languages {
         internal static string enterItHereForVerification {
             get {
                 return ResourceManager.GetString("enterItHereForVerification", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Enter your code.
-        /// </summary>
-        internal static string enterYourCode {
-            get {
-                return ResourceManager.GetString("enterYourCode", resourceCulture);
             }
         }
         
@@ -1312,6 +1384,15 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to New Email Or Phone.
+        /// </summary>
+        internal static string newEmailOrPhone {
+            get {
+                return ResourceManager.GetString("newEmailOrPhone", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to New password.
         /// </summary>
         internal static string newPassword {
@@ -1542,6 +1623,15 @@ namespace Languages {
         internal static string phoneTooShort {
             get {
                 return ResourceManager.GetString("phoneTooShort", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please Choose A Date.
+        /// </summary>
+        internal static string pleaseChooseOndate {
+            get {
+                return ResourceManager.GetString("pleaseChooseOndate", resourceCulture);
             }
         }
         
@@ -1812,6 +1902,24 @@ namespace Languages {
         internal static string sendTo {
             get {
                 return ResourceManager.GetString("sendTo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Confirm code sent failed.
+        /// </summary>
+        internal static string sentConfCodeFail {
+            get {
+                return ResourceManager.GetString("sentConfCodeFail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Confirm code sent successsfully.
+        /// </summary>
+        internal static string sentConfCodeSucc {
+            get {
+                return ResourceManager.GetString("sentConfCodeSucc", resourceCulture);
             }
         }
         

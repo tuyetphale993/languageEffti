@@ -348,8 +348,8 @@
   <data name="enterItHereForVerification" xml:space="preserve">
     <value>Enter it here for verification</value>
   </data>
-  <data name="enterYourCode" xml:space="preserve">
-    <value>Enter your code</value>
+  <data name="descriptConfirmCode" xml:space="preserve">
+    <value>Confirm code sent to your email or phone number</value>
   </data>
   <data name="enterYourEmailOrMobilePhoneNumber" xml:space="preserve">
     <value>Enter your email or mobile phone number</value>
@@ -884,5 +884,41 @@
   </data>
   <data name="selectDoctors" xml:space="preserve">
     <value>Select Doctor</value>
+  </data>
+  <data name="confirmCode" xml:space="preserve">
+    <value>Confirm Code</value>
+  </data>
+  <data name="confirmDeleteDepartment" xml:space="preserve">
+    <value>Do you want to remove department {0}?</value>
+  </data>
+  <data name="confirmDeleteIPAddress" xml:space="preserve">
+    <value>Do you want to remove IP address {0}?</value>
+  </data>
+  <data name="confirmDeleteMember" xml:space="preserve">
+    <value>Do you want to remove member {0}?</value>
+  </data>
+  <data name="confirmDeleteShift" xml:space="preserve">
+    <value>Do you want to remove shift {0}?</value>
+  </data>
+  <data name="confirmUpdateOrgMap" xml:space="preserve">
+    <value>Do you want to update the company position on map?</value>
+  </data>
+  <data name="confirmUpdateUserRole" xml:space="preserve">
+    <value>Do you want to change role of user {0}?</value>
+  </data>
+  <data name="descriptChangeEmail" xml:space="preserve">
+    <value>Your old email or phone number is {0}. You can change it at here!</value>
+  </data>
+  <data name="newEmailOrPhone" xml:space="preserve">
+    <value>New Email Or Phone</value>
+  </data>
+  <data name="pleaseChooseOndate" xml:space="preserve">
+    <value>Please Choose A Date</value>
+  </data>
+  <data name="sentConfCodeFail" xml:space="preserve">
+    <value>Confirm code sent failed</value>
+  </data>
+  <data name="sentConfCodeSucc" xml:space="preserve">
+    <value>Confirm code sent successsfully</value>
   </data>
 </root>
