@@ -441,8 +441,8 @@
   <data name="lastNameTooLong" xml:space="preserve">
     <value>Tên không được dài quá {0} ký tự. Vui lòng nhập lại tên!</value>
   </data>
-  <data name="letGoMakeCustomerHappy" xml:space="preserve">
-    <value>letGoMakeCustomerHappy</value>
+  <data name="letGoMakeCustomersHappy" xml:space="preserve">
+    <value>Hãy làm cho khách hàng của bạn hài lòng!</value>
   </data>
   <data name="limitAPIAccessToTheFollowingIPAddresses" xml:space="preserve">
     <value>limitAPIAccessToTheFollowingIPAddresses</value>
@@ -799,7 +799,7 @@
     <value>ngày làm việc</value>
   </data>
   <data name="yourAccountWasCreatedSuccessFully" xml:space="preserve">
-    <value>Tài khoản đã được tạo thành công</value>
+    <value>Tài khoản đã được tạo thành công!</value>
   </data>
   <data name="yourAPIKey" xml:space="preserve">
     <value>Mã API của bạn</value>

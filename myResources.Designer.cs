@@ -1161,9 +1161,9 @@ namespace Languages {
         /// <summary>
         ///   Looks up a localized string similar to Let&apos;s go &amp; make the customers HAPPY, shall we?.
         /// </summary>
-        internal static string letGoMakeCustomerHappy {
+        internal static string letGoMakeCustomersHappy {
             get {
-                return ResourceManager.GetString("letGoMakeCustomerHappy", resourceCulture);
+                return ResourceManager.GetString("letGoMakeCustomersHappy", resourceCulture);
             }
         }
         
