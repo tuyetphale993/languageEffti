@@ -448,7 +448,7 @@
     <value>Let's go &amp; make the customers HAPPY, shall we?</value>
   </data>
   <data name="limitAPIAccessToTheFollowingIPAddresses" xml:space="preserve">
-    <value>Giới hạn truy cập API, chỉ cho phép các IP bên dưới truy cập</value>
+    <value>Llimit API Access To. The Following IP Addresses</value>
   </data>
   <data name="logIn" xml:space="preserve">
     <value>Log in</value>

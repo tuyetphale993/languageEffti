@@ -1177,7 +1177,7 @@ namespace Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Giới hạn truy cập API, chỉ cho phép các IP bên dưới truy cập.
+        ///   Looks up a localized string similar to Llimit API Access To. The Following IP Addresses.
         /// </summary>
         internal static string limitAPIAccessToTheFollowingIPAddresses {
             get {
