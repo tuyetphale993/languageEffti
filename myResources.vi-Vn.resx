@@ -349,7 +349,7 @@
     <value>Nhập mã xác nhận vào đây để xác thực</value>
   </data>
   <data name="descriptConfirmCode" xml:space="preserve">
-    <value>Mã xác nhận đã được gửi đến email hoặc số điện thoại của bạn</value>
+    <value>Mã xác nhận đã được gửi đến</value>
   </data>
   <data name="enterYourEmailOrMobilePhoneNumber" xml:space="preserve">
     <value>Nhập email hoặc số điện thoại của bạn</value>
@@ -907,7 +907,7 @@
     <value>Bạn có muốn đổi quyền của người dùng {0} thành {1}?</value>
   </data>
   <data name="descriptChangeEmail" xml:space="preserve">
-    <value>Email hoặc số điện thoại cũ của bạn là {0}. Bạn có thể đổi email hoặc số điện thoại mới tại đây!</value>
+    <value>Email hoặc số điện thoại của bạn là</value>
   </data>
   <data name="newEmailOrPhone" xml:space="preserve">
     <value>Email hoặc số điện thoại mới</value>
@@ -920,5 +920,8 @@
   </data>
   <data name="sentConfCodeSucc" xml:space="preserve">
     <value>Gửi mã xác nhận thành công</value>
+  </data>
+  <data name="youCanChangeItAtHere" xml:space="preserve">
+    <value>Bạn có thể thay đổi nó tại đây!</value>
   </data>
 </root>

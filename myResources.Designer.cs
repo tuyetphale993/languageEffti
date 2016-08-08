@@ -781,7 +781,7 @@ namespace Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your old email or phone number is {0}. You can change it at here!.
+        ///   Looks up a localized string similar to Your email or phone number is.
         /// </summary>
         internal static string descriptChangeEmail {
             get {
@@ -790,7 +790,7 @@ namespace Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Confirm code sent to your email or phone number.
+        ///   Looks up a localized string similar to Confirm code sent to.
         /// </summary>
         internal static string descriptConfirmCode {
             get {
@@ -1384,7 +1384,7 @@ namespace Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to New Email Or Phone.
+        ///   Looks up a localized string similar to New email or phone.
         /// </summary>
         internal static string newEmailOrPhone {
             get {
@@ -2442,6 +2442,15 @@ namespace Languages {
         internal static string workDays {
             get {
                 return ResourceManager.GetString("workDays", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can change it at here!.
+        /// </summary>
+        internal static string youCanChangeItAtHere {
+            get {
+                return ResourceManager.GetString("youCanChangeItAtHere", resourceCulture);
             }
         }
         
