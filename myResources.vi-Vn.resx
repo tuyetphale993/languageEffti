@@ -154,7 +154,7 @@
     <value>Mã API là mã duy nhất được giao cho công ty của bạn.</value>
   </data>
   <data name="appointment" xml:space="preserve">
-    <value>Lấy hẹn</value>
+    <value>Lịch hẹn</value>
   </data>
   <data name="appointments" xml:space="preserve">
     <value>Cuộc hẹn</value>
