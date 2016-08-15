@@ -547,7 +547,7 @@ namespace Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Do you want to remove department {0}?.
+        ///   Looks up a localized string similar to Do you want to remove department &quot;{0}&quot;?.
         /// </summary>
         internal static string confirmDeleteDepartment {
             get {
@@ -556,7 +556,7 @@ namespace Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Do you want to remove IP address {0}?.
+        ///   Looks up a localized string similar to Do you want to remove IP address &quot;{0}&quot;?.
         /// </summary>
         internal static string confirmDeleteIPAddress {
             get {
@@ -565,7 +565,7 @@ namespace Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Do you want to remove member {0}?.
+        ///   Looks up a localized string similar to Do you want to remove member &quot;{0}&quot;?.
         /// </summary>
         internal static string confirmDeleteMember {
             get {
@@ -574,7 +574,7 @@ namespace Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Do you want to remove shift {0}?.
+        ///   Looks up a localized string similar to Do you want to remove shift &quot;{0}&quot;?.
         /// </summary>
         internal static string confirmDeleteShift {
             get {
@@ -610,7 +610,7 @@ namespace Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Do you want to change role of user {0}?.
+        ///   Looks up a localized string similar to Do you want to change role of user &quot;{0}&quot; to &quot;{1}&quot;?.
         /// </summary>
         internal static string confirmUpdateUserRole {
             get {

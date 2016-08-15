@@ -889,22 +889,22 @@
     <value>Confirm Code</value>
   </data>
   <data name="confirmDeleteDepartment" xml:space="preserve">
-    <value>Do you want to remove department {0}?</value>
+    <value>Do you want to remove department "{0}"?</value>
   </data>
   <data name="confirmDeleteIPAddress" xml:space="preserve">
-    <value>Do you want to remove IP address {0}?</value>
+    <value>Do you want to remove IP address "{0}"?</value>
   </data>
   <data name="confirmDeleteMember" xml:space="preserve">
-    <value>Do you want to remove member {0}?</value>
+    <value>Do you want to remove member "{0}"?</value>
   </data>
   <data name="confirmDeleteShift" xml:space="preserve">
-    <value>Do you want to remove shift {0}?</value>
+    <value>Do you want to remove shift "{0}"?</value>
   </data>
   <data name="confirmUpdateOrgMap" xml:space="preserve">
     <value>Do you want to update the company position on map?</value>
   </data>
   <data name="confirmUpdateUserRole" xml:space="preserve">
-    <value>Do you want to change role of user {0}?</value>
+    <value>Do you want to change role of user "{0}" to "{1}"?</value>
   </data>
   <data name="descriptChangeEmail" xml:space="preserve">
     <value>Your email or phone number is</value>

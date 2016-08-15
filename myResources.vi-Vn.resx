@@ -889,22 +889,22 @@
     <value>Mã xác nhận</value>
   </data>
   <data name="confirmDeleteDepartment" xml:space="preserve">
-    <value>Bạn có muốn xóa phòng ban {0}?</value>
+    <value>Bạn có muốn xóa phòng ban "{0}"?</value>
   </data>
   <data name="confirmDeleteIPAddress" xml:space="preserve">
-    <value>Bạn có muốn xóa địa chỉ IP {0}?</value>
+    <value>Bạn có muốn xóa địa chỉ IP "{0}"?</value>
   </data>
   <data name="confirmDeleteMember" xml:space="preserve">
-    <value>Bạn có muốn xóa người dùng {0}?</value>
+    <value>Bạn có muốn xóa người dùng "{0}"?</value>
   </data>
   <data name="confirmDeleteShift" xml:space="preserve">
-    <value>Bạn có muốn xóa ca {0}?</value>
+    <value>Bạn có muốn xóa "{0}"?</value>
   </data>
   <data name="confirmUpdateOrgMap" xml:space="preserve">
     <value>Bạn có muốn cập nhật vị trí công ty trên bản đồ?</value>
   </data>
   <data name="confirmUpdateUserRole" xml:space="preserve">
-    <value>Bạn có muốn đổi quyền của người dùng {0} thành {1}?</value>
+    <value>Bạn có muốn đổi quyền của người dùng "{0}" thành "{1}"?</value>
   </data>
   <data name="descriptChangeEmail" xml:space="preserve">
     <value>Email hoặc số điện thoại của bạn là</value>
