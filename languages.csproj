@@ -35,6 +35,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CommonAPI">
+      <HintPath>..\Effti\effti\dll\CommonAPI.dll</HintPath>
+    </Reference>
     <Reference Include="commonLibs">
       <HintPath>..\Effti\effti\dll\commonLibs.dll</HintPath>
     </Reference>
