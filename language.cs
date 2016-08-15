@@ -34,7 +34,7 @@ namespace Languages
         /// <returns></returns>
         public static string GetString(CommonTypes.SysLanguage lang, string code)
         {
-            lock(myResourceManager)
+            lock (myResourceManager)
             {
                 if (String.IsNullOrEmpty(code) == false)
                 {
@@ -64,7 +64,7 @@ namespace Languages
                     FromNo = chunkNo.Value * constChunkSz;
                     ToNo = FromNo + constChunkSz;
                 }
-                lock(myResourceManager)
+                lock (myResourceManager)
                 {
                     ResourceSet resourceSet = myResourceManager.GetResourceSet(CommonTypes.SysLibs.GetCulture(lang), true, true);
                     int count = 0, addedCount = 0;
@@ -120,9 +120,9 @@ namespace Languages
             return GetString(lang, key.ToString());
         }
 
-        internal static string Type2Text(CommonTypes.Gender value, CommonTypes.SysLanguage lang)
+        internal static string Type2Text(CommonAPI.Types.Gender value, CommonTypes.SysLanguage lang)
         {
-            return GetString(lang, "gender"+value.ToString());
+            return GetString(lang, "gender" + value.ToString());
         }
 
         internal static string Type2Text(CommonTypes.OrgType value, CommonTypes.SysLanguage lang)
@@ -161,7 +161,7 @@ namespace Languages
         }
         internal static string Type2TextShort(CommonTypes.DayOfWeek value, CommonTypes.SysLanguage lang)
         {
-            return GetString(lang, "short"+value.ToString());
+            return GetString(lang, "short" + value.ToString());
         }
 
         public static List<CommonLibs.TextValue> GetListLanguage(CommonTypes.SysLanguage lang)
@@ -198,7 +198,7 @@ namespace Languages
 
         public static List<CommonLibs.TextValue> GetListUserRoles(CommonTypes.SysLanguage lang)
         {
-            return GetListUserRoles(lang, CommonTypes.UserRoles.OrgAdmin| CommonTypes.UserRoles.OrgOperator);
+            return GetListUserRoles(lang, CommonTypes.UserRoles.OrgAdmin | CommonTypes.UserRoles.OrgOperator);
         }
         internal static List<CommonLibs.TextValue> GetListUserRoles(CommonTypes.SysLanguage lang, CommonTypes.UserRoles? roles = null, CommonTypes.UserRoles? exRoles = null)
         {
@@ -288,7 +288,7 @@ namespace Languages
             List<CommonLibs.TextValue> list = new List<CommonLibs.TextValue>();
             foreach (CommonTypes.TicketStatus stat in Enum.GetValues(typeof(CommonTypes.TicketStatus)))
             {
-                if (excludeStatus!= null && excludeStatus.Contains(stat)) continue;
+                if (excludeStatus != null && excludeStatus.Contains(stat)) continue;
                 CommonLibs.TextValue item = new CommonLibs.TextValue("", "");
                 item.Value = ((short)stat).ToString();
                 item.Text = Type2Text(stat, lang);

@@ -1159,6 +1159,15 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to If your location on map is not correct, you can change it by clicking on &quot;Locate&quot; button or move the marker..
+        /// </summary>
+        internal static string ifLocationNotTrue {
+            get {
+                return ResourceManager.GetString("ifLocationNotTrue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to IP address.
         /// </summary>
         internal static string ipAddress {
@@ -1245,6 +1254,15 @@ namespace Languages {
         internal static string limitAPIAccessToTheFollowingIPAddresses {
             get {
                 return ResourceManager.GetString("limitAPIAccessToTheFollowingIPAddresses", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Locate.
+        /// </summary>
+        internal static string locate {
+            get {
+                return ResourceManager.GetString("locate", resourceCulture);
             }
         }
         
