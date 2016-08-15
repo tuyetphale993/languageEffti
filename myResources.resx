@@ -924,4 +924,10 @@
   <data name="youCanChangeItAtHere" xml:space="preserve">
     <value>You can change it at here!</value>
   </data>
+  <data name="locate" xml:space="preserve">
+    <value>Locate</value>
+  </data>
+  <data name="ifLocationNotTrue" xml:space="preserve">
+    <value>If your location on map is not correct, you can change it by clicking on "Locate" button or move the marker.</value>
+  </data>
 </root>
