@@ -930,8 +930,23 @@
   <data name="ifLocationNotTrue" xml:space="preserve">
     <value>Nếu vị trí của bạn trên bản đồ không chính xác, bạn có thể định vị lại bằng cách nhấn nút "Định vị" hoặc di chuyển điểm đánh dấu trên bản đồ.</value>
   </data>
+  <data name="active" xml:space="preserve">
+    <value>Active</value>
+  </data>
+  <data name="all" xml:space="preserve">
+    <value>Tất cả</value>
+  </data>
   <data name="appLetKnowThroughOutTheDay" xml:space="preserve">
     <value>Vào ngày hẹn, hệ thống sẽ cho bạn biết lúc nào đến giờ, lúc nào lịch hẹn được dời lại và dời lại như thế nào. Bạn sẽ biết khi nào cần đến mà không cần phải đợi lâu ở phòng chờ!</value>
+  </data>
+  <data name="called" xml:space="preserve">
+    <value>Đã gọi</value>
+  </data>
+  <data name="candidate" xml:space="preserve">
+    <value>Đang đợi</value>
+  </data>
+  <data name="closed" xml:space="preserve">
+    <value>Đã Đóng</value>
   </data>
   <data name="confirm" xml:space="preserve">
     <value>Xác nhận</value>
@@ -941,6 +956,9 @@
   </data>
   <data name="customerUseAppToRequestAppt" xml:space="preserve">
     <value>Khách hàng dùng ứng dụng để tìm kiếm và đặt lịch hẹn với BẠN</value>
+  </data>
+  <data name="declined" xml:space="preserve">
+    <value>Từ chối</value>
   </data>
   <data name="efftiMinimizesCustomersWaitingTime" xml:space="preserve">
     <value>Effti giúp giảm thiểu thời gian chờ đợi của khách hàng.</value>
@@ -971,6 +989,9 @@
   </data>
   <data name="ownNumberDepartment" xml:space="preserve">
     <value>Mỗi bộ phận sẽ có một bộ số riêng cấp cho người lấy số</value>
+  </data>
+  <data name="pending" xml:space="preserve">
+    <value>Chờ xác nhận</value>
   </data>
   <data name="sayGoodbyeLongWait" xml:space="preserve">
     <value>&amp; hãy nói tạm biệt với việc đợi lâu ở phòng chờ!</value>

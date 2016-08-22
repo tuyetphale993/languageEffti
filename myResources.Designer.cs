@@ -79,6 +79,15 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Active.
+        /// </summary>
+        internal static string active {
+            get {
+                return ResourceManager.GetString("active", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Add department.
         /// </summary>
         internal static string addDepartment {
@@ -129,6 +138,15 @@ namespace Languages {
         internal static string advancedSettings {
             get {
                 return ResourceManager.GetString("advancedSettings", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to All.
+        /// </summary>
+        internal static string all {
+            get {
+                return ResourceManager.GetString("all", resourceCulture);
             }
         }
         
@@ -277,6 +295,15 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Called.
+        /// </summary>
+        internal static string called {
+            get {
+                return ResourceManager.GetString("called", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Calling Ticket.
         /// </summary>
         internal static string callingTicket {
@@ -300,6 +327,15 @@ namespace Languages {
         internal static string cancelled {
             get {
                 return ResourceManager.GetString("cancelled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Candidate.
+        /// </summary>
+        internal static string candidate {
+            get {
+                return ResourceManager.GetString("candidate", resourceCulture);
             }
         }
         
@@ -489,6 +525,15 @@ namespace Languages {
         internal static string clickIconsToViewList {
             get {
                 return ResourceManager.GetString("clickIconsToViewList", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Closed.
+        /// </summary>
+        internal static string closed {
+            get {
+                return ResourceManager.GetString("closed", resourceCulture);
             }
         }
         
@@ -768,6 +813,15 @@ namespace Languages {
         internal static string daysOfWeek {
             get {
                 return ResourceManager.GetString("daysOfWeek", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Declined.
+        /// </summary>
+        internal static string declined {
+            get {
+                return ResourceManager.GetString("declined", resourceCulture);
             }
         }
         
@@ -1731,6 +1785,15 @@ namespace Languages {
         internal static string payment {
             get {
                 return ResourceManager.GetString("payment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pending.
+        /// </summary>
+        internal static string pending {
+            get {
+                return ResourceManager.GetString("pending", resourceCulture);
             }
         }
         

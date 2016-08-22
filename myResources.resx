@@ -930,8 +930,23 @@
   <data name="ifLocationNotTrue" xml:space="preserve">
     <value>If your location on map is not correct, you can change it by clicking on "Locate" button or move the marker.</value>
   </data>
+  <data name="active" xml:space="preserve">
+    <value>Active</value>
+  </data>
+  <data name="all" xml:space="preserve">
+    <value>All</value>
+  </data>
   <data name="appLetKnowThroughOutTheDay" xml:space="preserve">
     <value>On the day of your appointment, we will let you know through out the day if it will be on time or late and how late. You will know when to be there, and say good bye to long waits in waiting rooms!</value>
+  </data>
+  <data name="called" xml:space="preserve">
+    <value>Called</value>
+  </data>
+  <data name="candidate" xml:space="preserve">
+    <value>Candidate</value>
+  </data>
+  <data name="closed" xml:space="preserve">
+    <value>Closed</value>
   </data>
   <data name="confirm" xml:space="preserve">
     <value>Confirm</value>
@@ -941,6 +956,9 @@
   </data>
   <data name="customerUseAppToRequestAppt" xml:space="preserve">
     <value>Customers use our app to find and request appointments with YOU</value>
+  </data>
+  <data name="declined" xml:space="preserve">
+    <value>Declined</value>
   </data>
   <data name="efftiMinimizesCustomersWaitingTime" xml:space="preserve">
     <value>Effti minimizes the waiting room time for your customers.</value>
@@ -971,6 +989,9 @@
   </data>
   <data name="ownNumberDepartment" xml:space="preserve">
     <value>Each department has its own number set for users</value>
+  </data>
+  <data name="pending" xml:space="preserve">
+    <value>Pending</value>
   </data>
   <data name="sayGoodbyeLongWait" xml:space="preserve">
     <value>&amp; Say good bye to long waits in waiting rooms?</value>
