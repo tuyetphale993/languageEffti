@@ -169,6 +169,15 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to On the day of your appointment, we will let you know through out the day if it will be on time or late and how late. You will know when to be there, and say good bye to long waits in waiting rooms!.
+        /// </summary>
+        internal static string appLetKnowThroughOutTheDay {
+            get {
+                return ResourceManager.GetString("appLetKnowThroughOutTheDay", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Appointment.
         /// </summary>
         internal static string appointment {
@@ -538,6 +547,24 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Confirm.
+        /// </summary>
+        internal static string confirm {
+            get {
+                return ResourceManager.GetString("confirm", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you want to choose doctor {0}?.
+        /// </summary>
+        internal static string confirmChoosedDoctor {
+            get {
+                return ResourceManager.GetString("confirmChoosedDoctor", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Confirm Code.
         /// </summary>
         internal static string confirmCode {
@@ -678,6 +705,15 @@ namespace Languages {
         internal static string createTicket {
             get {
                 return ResourceManager.GetString("createTicket", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Customers use our app to find and request appointments with YOU.
+        /// </summary>
+        internal static string customerUseAppToRequestAppt {
+            get {
+                return ResourceManager.GetString("customerUseAppToRequestAppt", resourceCulture);
             }
         }
         
@@ -853,6 +889,15 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Effti minimizes the waiting room time for your customers..
+        /// </summary>
+        internal static string efftiMinimizesCustomersWaitingTime {
+            get {
+                return ResourceManager.GetString("efftiMinimizesCustomersWaitingTime", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Email.
         /// </summary>
         internal static string email {
@@ -1024,6 +1069,15 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to For businesses.
+        /// </summary>
+        internal static string forBussiness {
+            get {
+                return ResourceManager.GetString("forBussiness", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to For everyone.
         /// </summary>
         internal static string forEveryOne {
@@ -1047,6 +1101,15 @@ namespace Languages {
         internal static string free30DaysTrial {
             get {
                 return ResourceManager.GetString("free30DaysTrial", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Use our FREE app to find services &amp; make appointment.
+        /// </summary>
+        internal static string freeAppToFindServiceAndAppt {
+            get {
+                return ResourceManager.GetString("freeAppToFindServiceAndAppt", resourceCulture);
             }
         }
         
@@ -1114,6 +1177,24 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Happy customers.
+        /// </summary>
+        internal static string happyCustomers {
+            get {
+                return ResourceManager.GetString("happyCustomers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Happy you!.
+        /// </summary>
+        internal static string happyYou {
+            get {
+                return ResourceManager.GetString("happyYou", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Hello.
         /// </summary>
         internal static string hello {
@@ -1159,11 +1240,29 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to How it works.
+        /// </summary>
+        internal static string howItWorks {
+            get {
+                return ResourceManager.GetString("howItWorks", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to If your location on map is not correct, you can change it by clicking on &quot;Locate&quot; button or move the marker..
         /// </summary>
         internal static string ifLocationNotTrue {
             get {
                 return ResourceManager.GetString("ifLocationNotTrue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If time is infinite,.
+        /// </summary>
+        internal static string ifTimeInfinite {
+            get {
+                return ResourceManager.GetString("ifTimeInfinite", resourceCulture);
             }
         }
         
@@ -1182,6 +1281,15 @@ namespace Languages {
         internal static string iReadAndAccept {
             get {
                 return ResourceManager.GetString("iReadAndAccept", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to It&apos;s that easy!.
+        /// </summary>
+        internal static string itIsEasy {
+            get {
+                return ResourceManager.GetString("itIsEasy", resourceCulture);
             }
         }
         
@@ -1483,6 +1591,15 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Not Now.
+        /// </summary>
+        internal static string notNow {
+            get {
+                return ResourceManager.GetString("notNow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to We do not recognize your login. Please try again..
         /// </summary>
         internal static string notRecognizeLogin {
@@ -1569,6 +1686,15 @@ namespace Languages {
         internal static string overBooked {
             get {
                 return ResourceManager.GetString("overBooked", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Each department has its own number set for users.
+        /// </summary>
+        internal static string ownNumberDepartment {
+            get {
+                return ResourceManager.GetString("ownNumberDepartment", resourceCulture);
             }
         }
         
@@ -1834,6 +1960,15 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to &amp; Say good bye to long waits in waiting rooms?.
+        /// </summary>
+        internal static string sayGoodbyeLongWait {
+            get {
+                return ResourceManager.GetString("sayGoodbyeLongWait", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Search.
         /// </summary>
         internal static string search {
@@ -2005,6 +2140,15 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Short of time ?.
+        /// </summary>
+        internal static string shortOfTime {
+            get {
+                return ResourceManager.GetString("shortOfTime", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Sat.
         /// </summary>
         internal static string shortSaturday {
@@ -2109,6 +2253,15 @@ namespace Languages {
         internal static string Sunday {
             get {
                 return ResourceManager.GetString("Sunday", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Tell us how to would want your customer to get an appointment with you, your working hours &amp; how many customers you would like to serve during those hours.
+        /// </summary>
+        internal static string tellUsHowToGetAppt {
+            get {
+                return ResourceManager.GetString("tellUsHowToGetAppt", resourceCulture);
             }
         }
         
@@ -2410,6 +2563,15 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to No more wasted time in waiting rooms!.
+        /// </summary>
+        internal static string wastedTimeInWaitingRooms {
+            get {
+                return ResourceManager.GetString("wastedTimeInWaitingRooms", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Website.
         /// </summary>
         internal static string website {
@@ -2437,11 +2599,29 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to We monitor your customer serving progress &amp; notify them if their appointments are going to be late along with the new estimated time so they don&apos;t have to waste time in your waiting room.
+        /// </summary>
+        internal static string weMonitorYourCustomer {
+            get {
+                return ResourceManager.GetString("weMonitorYourCustomer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to When to restart ticket number.
         /// </summary>
         internal static string whenToRestartTicketNumber {
             get {
                 return ResourceManager.GetString("whenToRestartTicketNumber", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Then why are we always.
+        /// </summary>
+        internal static string whyAreWeAlways {
+            get {
+                return ResourceManager.GetString("whyAreWeAlways", resourceCulture);
             }
         }
         

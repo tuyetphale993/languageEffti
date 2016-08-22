@@ -151,7 +151,7 @@
     <value>Mã API</value>
   </data>
   <data name="apiKeyIsUnique" xml:space="preserve">
-    <value>Mã API là mã duy nhất được giao cho công ty của bạn.</value>
+    <value>Mã API là mã duy nhất được cấp cho công ty của bạn.</value>
   </data>
   <data name="appointment" xml:space="preserve">
     <value>Lịch hẹn</value>
@@ -754,7 +754,7 @@
     <value>Chọn ảnh</value>
   </data>
   <data name="usedApiToAccess" xml:space="preserve">
-    <value>Nó được sử dụng để truy cập các dịch vụ của chúng tôi từ trang web của bạn hoặc ứng dụng của bạn.</value>
+    <value>Nó được sử dụng để truy cập các dịch vụ của chúng tôi từ trang web hoặc ứng dụng của bạn.</value>
   </data>
   <data name="user" xml:space="preserve">
     <value>Người dùng</value>
@@ -898,7 +898,7 @@
     <value>Bạn có muốn xóa người dùng "{0}"?</value>
   </data>
   <data name="confirmDeleteShift" xml:space="preserve">
-    <value>Bạn có muốn xóa "{0}"?</value>
+    <value>Bạn có muốn xóa ca "{0}"?</value>
   </data>
   <data name="confirmUpdateOrgMap" xml:space="preserve">
     <value>Bạn có muốn cập nhật vị trí công ty trên bản đồ?</value>
@@ -929,5 +929,65 @@
   </data>
   <data name="ifLocationNotTrue" xml:space="preserve">
     <value>Nếu vị trí của bạn trên bản đồ không chính xác, bạn có thể định vị lại bằng cách nhấn nút "Định vị" hoặc di chuyển điểm đánh dấu trên bản đồ.</value>
+  </data>
+  <data name="appLetKnowThroughOutTheDay" xml:space="preserve">
+    <value>Vào ngày hẹn, hệ thống sẽ cho bạn biết lúc nào đến giờ, lúc nào lịch hẹn được dời lại và dời lại như thế nào. Bạn sẽ biết khi nào cần đến mà không cần phải đợi lâu ở phòng chờ!</value>
+  </data>
+  <data name="confirm" xml:space="preserve">
+    <value>Xác nhận</value>
+  </data>
+  <data name="confirmChoosedDoctor" xml:space="preserve">
+    <value>Bạn có muốn chọn bác sĩ {0}?</value>
+  </data>
+  <data name="customerUseAppToRequestAppt" xml:space="preserve">
+    <value>Khách hàng dùng ứng dụng để tìm kiếm và đặt lịch hẹn với BẠN</value>
+  </data>
+  <data name="efftiMinimizesCustomersWaitingTime" xml:space="preserve">
+    <value>Effti giúp giảm thiểu thời gian chờ đợi của khách hàng.</value>
+  </data>
+  <data name="forBussiness" xml:space="preserve">
+    <value>Với doanh nghiệp</value>
+  </data>
+  <data name="freeAppToFindServiceAndAppt" xml:space="preserve">
+    <value>Ứng dụng MIỄN PHÍ để tìm kiếm dịch vụ và đặt lịch hẹn</value>
+  </data>
+  <data name="happyCustomers" xml:space="preserve">
+    <value>Khách hàng hài lòng</value>
+  </data>
+  <data name="happyYou" xml:space="preserve">
+    <value>Bạn hài lòng!</value>
+  </data>
+  <data name="howItWorks" xml:space="preserve">
+    <value>Cách hệ thống làm việc</value>
+  </data>
+  <data name="ifTimeInfinite" xml:space="preserve">
+    <value>Nếu thời gian là vô tận,</value>
+  </data>
+  <data name="itIsEasy" xml:space="preserve">
+    <value>Mọi thứ dễ dàng hơn!</value>
+  </data>
+  <data name="notNow" xml:space="preserve">
+    <value>Xác nhận sau</value>
+  </data>
+  <data name="ownNumberDepartment" xml:space="preserve">
+    <value>Mỗi bộ phận sẽ có một bộ số riêng cấp cho người lấy số</value>
+  </data>
+  <data name="sayGoodbyeLongWait" xml:space="preserve">
+    <value>&amp; hãy nói tạm biệt với việc đợi lâu ở phòng chờ!</value>
+  </data>
+  <data name="shortOfTime" xml:space="preserve">
+    <value>Thiếu thời gian ?</value>
+  </data>
+  <data name="tellUsHowToGetAppt" xml:space="preserve">
+    <value>Cho hệ thông biết bạn muốn khách hàng đặt lịch hẹn như thế nào, thời gian bạn làm việc và số lượng khách hàng có thể được phục vụ trong khoảng thời gian này</value>
+  </data>
+  <data name="wastedTimeInWaitingRooms" xml:space="preserve">
+    <value>Không cần lãng phí thời gian tại phòng chờ!</value>
+  </data>
+  <data name="weMonitorYourCustomer" xml:space="preserve">
+    <value>Hệ thống tự động theo dõi tiến trình phụ vụ khách hàng và hiển thị thông báo nếu thời gian ước tính phụ vụ có sự thay đổi, như vậy khách hàng sẽ không lãng phí thời gian để chờ đợi</value>
+  </data>
+  <data name="whyAreWeAlways" xml:space="preserve">
+    <value>Thì tại sao chúng ta luôn</value>
   </data>
 </root>
