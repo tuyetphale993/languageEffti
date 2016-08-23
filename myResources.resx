@@ -214,7 +214,7 @@
     <value>Change password</value>
   </data>
   <data name="checkedIn" xml:space="preserve">
-    <value>Checked In</value>
+    <value>Checked in</value>
   </data>
   <data name="checkIn" xml:space="preserve">
     <value>Check-in</value>
@@ -843,8 +843,8 @@
   <data name="callingTicket" xml:space="preserve">
     <value>Calling Ticket</value>
   </data>
-  <data name="candidateTicket" xml:space="preserve">
-    <value>Candidate Ticket</value>
+  <data name="calledTicket" xml:space="preserve">
+    <value>Called ticket</value>
   </data>
   <data name="chooseAnOrgText" xml:space="preserve">
     <value>We see that you have access to more than one organization. Please select one to continue.</value>
@@ -904,7 +904,7 @@
     <value>Do you want to update the company position on map?</value>
   </data>
   <data name="confirmUpdateUserRole" xml:space="preserve">
-    <value>Do you want to change role of user "{0}" to "{1}"?</value>
+    <value>Do you want to grant "{0}" role for user "{1}"  ?</value>
   </data>
   <data name="descriptChangeEmail" xml:space="preserve">
     <value>Your email or phone number is</value>
@@ -1002,6 +1002,9 @@
   <data name="tellUsHowToGetAppt" xml:space="preserve">
     <value>Tell us how to would want your customer to get an appointment with you, your working hours &amp; how many customers you would like to serve during those hours</value>
   </data>
+  <data name="unSelect" xml:space="preserve">
+    <value>Unselect</value>
+  </data>
   <data name="wastedTimeInWaitingRooms" xml:space="preserve">
     <value>No more wasted time in waiting rooms!</value>
   </data>
@@ -1010,5 +1013,23 @@
   </data>
   <data name="whyAreWeAlways" xml:space="preserve">
     <value>Then why are we always</value>
+  </data>
+  <data name="confirmDeleteHoliday" xml:space="preserve">
+    <value>Do you want to delete holidat "{n0}"?</value>
+  </data>
+  <data name="connectToProGdrFailed" xml:space="preserve">
+    <value>Make connection to provider failed!</value>
+  </data>
+  <data name="connectToProGdrSucc" xml:space="preserve">
+    <value>Make connection to provider successfully!</value>
+  </data>
+  <data name="IDCard" xml:space="preserve">
+    <value>ID Card</value>
+  </data>
+  <data name="noTicket" xml:space="preserve">
+    <value>No ticket</value>
+  </data>
+  <data name="shotenDoctorList" xml:space="preserve">
+    <value>Shoten Doctor List</value>
   </data>
 </root>

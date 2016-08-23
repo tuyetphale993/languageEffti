@@ -214,10 +214,10 @@
     <value>Đổi mật khẩu</value>
   </data>
   <data name="checkedIn" xml:space="preserve">
-    <value>checkedIn</value>
+    <value>Checked in</value>
   </data>
   <data name="checkIn" xml:space="preserve">
-    <value>checkIn</value>
+    <value>Check-in</value>
   </data>
   <data name="chooseDate" xml:space="preserve">
     <value>Chọn ngày</value>
@@ -250,7 +250,7 @@
     <value>Tên công ty không được dài quá {0} ký tự. Vui lòng nhập lại tên công ty!</value>
   </data>
   <data name="confirmGenerateAPIKey" xml:space="preserve">
-    <value>Tạo lại mã API có thể yêu cầu một vài thay đổi trong hệ thống của bạn.</value>
+    <value>Tạo lại mã API có thể dẫn đến một vài thay đổi trong hệ thống của bạn.</value>
   </data>
   <data name="confirmination" xml:space="preserve">
     <value>Xác nhận</value>
@@ -843,8 +843,8 @@
   <data name="callingTicket" xml:space="preserve">
     <value>Gọi số</value>
   </data>
-  <data name="candidateTicket" xml:space="preserve">
-    <value>Số tiếp theo</value>
+  <data name="calledTicket" xml:space="preserve">
+    <value>Số đã gọi</value>
   </data>
   <data name="chooseAnOrgText" xml:space="preserve">
     <value>Bạn có nhiều hơn một tổ thức, hãy chọn một tổ chức để tiếp tục.</value>
@@ -904,7 +904,7 @@
     <value>Bạn có muốn cập nhật vị trí công ty trên bản đồ?</value>
   </data>
   <data name="confirmUpdateUserRole" xml:space="preserve">
-    <value>Bạn có muốn đổi quyền của người dùng "{0}" thành "{1}"?</value>
+    <value>Bạn muốn gán quyền"{0}" cho người dùng "{1}"?</value>
   </data>
   <data name="descriptChangeEmail" xml:space="preserve">
     <value>Email hoặc số điện thoại của bạn là</value>
@@ -952,7 +952,7 @@
     <value>Xác nhận</value>
   </data>
   <data name="confirmChoosedDoctor" xml:space="preserve">
-    <value>Bạn có muốn chọn bác sĩ {0}?</value>
+    <value>Bạn có muốn phân công cho bác sĩ {0}?</value>
   </data>
   <data name="customerUseAppToRequestAppt" xml:space="preserve">
     <value>Khách hàng dùng ứng dụng để tìm kiếm và đặt lịch hẹn với BẠN</value>
@@ -1002,6 +1002,9 @@
   <data name="tellUsHowToGetAppt" xml:space="preserve">
     <value>Cho hệ thông biết bạn muốn khách hàng đặt lịch hẹn như thế nào, thời gian bạn làm việc và số lượng khách hàng có thể được phục vụ trong khoảng thời gian này</value>
   </data>
+  <data name="unSelect" xml:space="preserve">
+    <value>Bỏ chọn</value>
+  </data>
   <data name="wastedTimeInWaitingRooms" xml:space="preserve">
     <value>Không cần lãng phí thời gian tại phòng chờ!</value>
   </data>
@@ -1010,5 +1013,23 @@
   </data>
   <data name="whyAreWeAlways" xml:space="preserve">
     <value>Thì tại sao chúng ta luôn</value>
+  </data>
+  <data name="confirmDeleteHoliday" xml:space="preserve">
+    <value>Bạn muốn xóa lịch nghỉ "{n0}"?</value>
+  </data>
+  <data name="connectToProGdrFailed" xml:space="preserve">
+    <value>Tạo kết nối đến bác sĩ thất bại!</value>
+  </data>
+  <data name="connectToProGdrSucc" xml:space="preserve">
+    <value>Tạo kết nối đến bác sĩ thành công!</value>
+  </data>
+  <data name="IDCard" xml:space="preserve">
+    <value>Số CMND</value>
+  </data>
+  <data name="noTicket" xml:space="preserve">
+    <value>Không có vé</value>
+  </data>
+  <data name="shotenDoctorList" xml:space="preserve">
+    <value>Rút ngắn danh sách</value>
   </data>
 </root>

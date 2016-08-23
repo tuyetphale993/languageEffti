@@ -304,6 +304,15 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Called ticket.
+        /// </summary>
+        internal static string calledTicket {
+            get {
+                return ResourceManager.GetString("calledTicket", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Calling Ticket.
         /// </summary>
         internal static string callingTicket {
@@ -336,15 +345,6 @@ namespace Languages {
         internal static string candidate {
             get {
                 return ResourceManager.GetString("candidate", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Candidate Ticket.
-        /// </summary>
-        internal static string candidateTicket {
-            get {
-                return ResourceManager.GetString("candidateTicket", resourceCulture);
             }
         }
         
@@ -430,7 +430,7 @@ namespace Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Checked In.
+        ///   Looks up a localized string similar to Checked in.
         /// </summary>
         internal static string checkedIn {
             get {
@@ -628,6 +628,15 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Do you want to delete holidat &quot;{n0}&quot;?.
+        /// </summary>
+        internal static string confirmDeleteHoliday {
+            get {
+                return ResourceManager.GetString("confirmDeleteHoliday", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Do you want to remove IP address &quot;{0}&quot;?.
         /// </summary>
         internal static string confirmDeleteIPAddress {
@@ -682,11 +691,29 @@ namespace Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Do you want to change role of user &quot;{0}&quot; to &quot;{1}&quot;?.
+        ///   Looks up a localized string similar to Do you want to grant &quot;{0}&quot; role for user &quot;{1}&quot;  ?.
         /// </summary>
         internal static string confirmUpdateUserRole {
             get {
                 return ResourceManager.GetString("confirmUpdateUserRole", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Make connection to provider failed!.
+        /// </summary>
+        internal static string connectToProGdrFailed {
+            get {
+                return ResourceManager.GetString("connectToProGdrFailed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Make connection to provider successfully!.
+        /// </summary>
+        internal static string connectToProGdrSucc {
+            get {
+                return ResourceManager.GetString("connectToProGdrSucc", resourceCulture);
             }
         }
         
@@ -1303,6 +1330,15 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to ID Card.
+        /// </summary>
+        internal static string IDCard {
+            get {
+                return ResourceManager.GetString("IDCard", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to If your location on map is not correct, you can change it by clicking on &quot;Locate&quot; button or move the marker..
         /// </summary>
         internal static string ifLocationNotTrue {
@@ -1632,6 +1668,15 @@ namespace Languages {
         internal static string noShow {
             get {
                 return ResourceManager.GetString("noShow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No ticket.
+        /// </summary>
+        internal static string noTicket {
+            get {
+                return ResourceManager.GetString("noTicket", resourceCulture);
             }
         }
         
@@ -2257,6 +2302,15 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Shoten Doctor List.
+        /// </summary>
+        internal static string shotenDoctorList {
+            get {
+                return ResourceManager.GetString("shotenDoctorList", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Sign In.
         /// </summary>
         internal static string signIn {
@@ -2505,6 +2559,15 @@ namespace Languages {
         internal static string Tuesday {
             get {
                 return ResourceManager.GetString("Tuesday", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unselect.
+        /// </summary>
+        internal static string unSelect {
+            get {
+                return ResourceManager.GetString("unSelect", resourceCulture);
             }
         }
         
