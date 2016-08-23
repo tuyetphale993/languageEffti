@@ -1015,7 +1015,7 @@
     <value>Then why are we always</value>
   </data>
   <data name="confirmDeleteHoliday" xml:space="preserve">
-    <value>Do you want to delete holidat "{n0}"?</value>
+    <value>Do you want to delete holidat "{0}"?</value>
   </data>
   <data name="connectToProGdrFailed" xml:space="preserve">
     <value>Make connection to provider failed!</value>
@@ -1023,8 +1023,11 @@
   <data name="connectToProGdrSucc" xml:space="preserve">
     <value>Make connection to provider successfully!</value>
   </data>
-  <data name="IDCard" xml:space="preserve">
+  <data name="idCard" xml:space="preserve">
     <value>ID Card</value>
+  </data>
+  <data name="noHaveOrgs" xml:space="preserve">
+    <value>Your account is not linked to any organization. Please contact our system administrator for assistance.</value>
   </data>
   <data name="noTicket" xml:space="preserve">
     <value>No ticket</value>

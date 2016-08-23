@@ -628,7 +628,7 @@ namespace Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Do you want to delete holidat &quot;{n0}&quot;?.
+        ///   Looks up a localized string similar to Do you want to delete holidat &quot;{0}&quot;?.
         /// </summary>
         internal static string confirmDeleteHoliday {
             get {
@@ -1332,9 +1332,9 @@ namespace Languages {
         /// <summary>
         ///   Looks up a localized string similar to ID Card.
         /// </summary>
-        internal static string IDCard {
+        internal static string idCard {
             get {
-                return ResourceManager.GetString("IDCard", resourceCulture);
+                return ResourceManager.GetString("idCard", resourceCulture);
             }
         }
         
@@ -1641,6 +1641,15 @@ namespace Languages {
         internal static string next {
             get {
                 return ResourceManager.GetString("next", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your account is not linked to any organization. Please contact our system administrator for assistance..
+        /// </summary>
+        internal static string noHaveOrgs {
+            get {
+                return ResourceManager.GetString("noHaveOrgs", resourceCulture);
             }
         }
         

@@ -1000,7 +1000,7 @@
     <value>Thiếu thời gian ?</value>
   </data>
   <data name="tellUsHowToGetAppt" xml:space="preserve">
-    <value>Cho hệ thông biết bạn muốn khách hàng đặt lịch hẹn như thế nào, thời gian bạn làm việc và số lượng khách hàng có thể được phục vụ trong khoảng thời gian này</value>
+    <value>Cho hệ thống biết bạn muốn khách hàng đặt lịch hẹn như thế nào, thời gian bạn làm việc và số lượng khách hàng có thể được phục vụ trong khoảng thời gian này</value>
   </data>
   <data name="unSelect" xml:space="preserve">
     <value>Bỏ chọn</value>
@@ -1015,7 +1015,7 @@
     <value>Thì tại sao chúng ta luôn</value>
   </data>
   <data name="confirmDeleteHoliday" xml:space="preserve">
-    <value>Bạn muốn xóa lịch nghỉ "{n0}"?</value>
+    <value>Bạn muốn xóa lịch nghỉ "{0}"?</value>
   </data>
   <data name="connectToProGdrFailed" xml:space="preserve">
     <value>Tạo kết nối đến bác sĩ thất bại!</value>
@@ -1023,8 +1023,11 @@
   <data name="connectToProGdrSucc" xml:space="preserve">
     <value>Tạo kết nối đến bác sĩ thành công!</value>
   </data>
-  <data name="IDCard" xml:space="preserve">
+  <data name="idCard" xml:space="preserve">
     <value>Số CMND</value>
+  </data>
+  <data name="noHaveOrgs" xml:space="preserve">
+    <value>Tài khoản của bạn không được liên kết đến tổ chức nào cả. Bạn vui lòng liên hệ với quản trị hệ thống để được hỗ trợ.</value>
   </data>
   <data name="noTicket" xml:space="preserve">
     <value>Không có vé</value>
