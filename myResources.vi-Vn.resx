@@ -841,7 +841,7 @@
     <value>Chọn lịch hẹn này</value>
   </data>
   <data name="callingTicket" xml:space="preserve">
-    <value>Gọi số</value>
+    <value>Số đang gọi</value>
   </data>
   <data name="calledTicket" xml:space="preserve">
     <value>Số đã gọi</value>
@@ -1034,5 +1034,14 @@
   </data>
   <data name="shotenDoctorList" xml:space="preserve">
     <value>Rút ngắn danh sách</value>
+  </data>
+  <data name="TicketNoShow" xml:space="preserve">
+    <value>No show</value>
+  </data>
+  <data name="emailSubjectNotify" xml:space="preserve">
+    <value>Thông báo</value>
+  </data>
+  <data name="yourTicketCode" xml:space="preserve">
+    <value>Mã xác nhận</value>
   </data>
 </root>

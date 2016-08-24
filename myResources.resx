@@ -1035,4 +1035,13 @@
   <data name="shotenDoctorList" xml:space="preserve">
     <value>Shoten Doctor List</value>
   </data>
+  <data name="TicketNoShow" xml:space="preserve">
+    <value>No show</value>
+  </data>
+  <data name="emailSubjectNotify" xml:space="preserve">
+    <value>Email Subject Notify</value>
+  </data>
+  <data name="yourTicketCode" xml:space="preserve">
+    <value>Your ticket code</value>
+  </data>
 </root>

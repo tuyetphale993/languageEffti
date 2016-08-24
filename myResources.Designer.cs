@@ -2482,6 +2482,15 @@ namespace Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to No show.
+        /// </summary>
+        internal static string TicketNoShow {
+            get {
+                return ResourceManager.GetString("TicketNoShow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {0} : Ticket was re-scheduled.
         /// </summary>
         internal static string ticketPending {

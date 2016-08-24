@@ -35,13 +35,16 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="CommonAPI">
+    <Reference Include="CommonAPI, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\Effti\effti\dll\CommonAPI.dll</HintPath>
     </Reference>
-    <Reference Include="commonLibs">
+    <Reference Include="commonLibs, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\Effti\effti\dll\commonLibs.dll</HintPath>
     </Reference>
-    <Reference Include="commonTypes">
+    <Reference Include="commonTypes, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\Effti\effti\dll\commonTypes.dll</HintPath>
     </Reference>
     <Reference Include="System" />
@@ -70,7 +73,7 @@
   <ItemGroup>
     <EmbeddedResource Include="myResources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>myResources.Designer.cs</LastGenOutput>
+      <LastGenOutput>myResources1.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="myResources.vi-Vn.resx" />
   </ItemGroup>
