@@ -1044,4 +1044,7 @@
   <data name="yourTicketCode" xml:space="preserve">
     <value>Your ticket code</value>
   </data>
+  <data name="close" xml:space="preserve">
+    <value>Close</value>
+  </data>
 </root>
