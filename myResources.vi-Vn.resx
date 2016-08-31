@@ -136,7 +136,7 @@
     <value>Vui lòng nhập địa chỉ!</value>
   </data>
   <data name="addressTooLong" xml:space="preserve">
-    <value>Địa chỉ không được dài quá {0} ký tự. Vui lòng nhập lại địa chỉ!</value>
+    <value>Địa chỉ không được dài quá {0} ký tự.</value>
   </data>
   <data name="advancedSettings" xml:space="preserve">
     <value>Thiết lập nâng cao</value>
@@ -202,7 +202,7 @@
     <value>Vui lòng nhập mã số thẻ!</value>
   </data>
   <data name="cardNumberTooLong" xml:space="preserve">
-    <value>Mã số thẻ không được dài quá {0} ký tự. Vui lòng nhập lại mã số thẻ!</value>
+    <value>Mã số thẻ không được dài quá {0} ký tự.</value>
   </data>
   <data name="change" xml:space="preserve">
     <value>Thay đổi</value>
@@ -226,7 +226,7 @@
     <value>Tỉnh/Thành phố</value>
   </data>
   <data name="cityTooLong" xml:space="preserve">
-    <value>Tên tỉnh/thành phố không được dài quá {0} ký tự. Vui lòng nhập lại tên tỉnh/thành phố!</value>
+    <value>Tên tỉnh/thành phố không được dài quá {0} ký tự.</value>
   </data>
   <data name="clickIconsToViewList" xml:space="preserve">
     <value>Nhấn vào biểu tượng để xem danh sách</value>
@@ -247,7 +247,7 @@
     <value>Vui lòng nhập tên công ty!</value>
   </data>
   <data name="companyNameTooLong" xml:space="preserve">
-    <value>Tên công ty không được dài quá {0} ký tự. Vui lòng nhập lại tên công ty!</value>
+    <value>Tên công ty không được dài quá {0} ký tự. </value>
   </data>
   <data name="confirmGenerateAPIKey" xml:space="preserve">
     <value>Tạo lại mã API có thể dẫn đến một vài thay đổi trong hệ thống của bạn.</value>
@@ -340,7 +340,7 @@
     <value>Vui lòng nhập email!</value>
   </data>
   <data name="emailTooLong" xml:space="preserve">
-    <value>Email không được dài quá {0} ký tự. Vui lòng nhập lại email!</value>
+    <value>Email không được dài quá {0} ký tự.</value>
   </data>
   <data name="enterHolidayName" xml:space="preserve">
     <value>Nhập tên ngày nghỉ</value>
@@ -370,7 +370,7 @@
     <value>Vui lòng nhập họ!</value>
   </data>
   <data name="firstNameTooLong" xml:space="preserve">
-    <value>Họ không được dài quá {0} ký tự. Vui lòng nhập lại họ!</value>
+    <value>Họ không được dài quá {0} ký tự.</value>
   </data>
   <data name="forBusinesses" xml:space="preserve">
     <value>Cho doanh nghiệp</value>
@@ -412,7 +412,7 @@
     <value>Vui lòng nhập tên chủ thẻ!</value>
   </data>
   <data name="holderNameTooLong" xml:space="preserve">
-    <value>Tên chủ thẻ không được dài quá {0} ký tự. Vui lòng nhập lại tên chủ thẻ!</value>
+    <value>Tên chủ thẻ không được dài quá {0} ký tự.</value>
   </data>
   <data name="howDoesYourCompanyReceivesCustomers" xml:space="preserve">
     <value>Chọn loại lịch hẹn sẽ hỗ trợ</value>
@@ -439,7 +439,7 @@
     <value>Vui lòng nhập tên!</value>
   </data>
   <data name="lastNameTooLong" xml:space="preserve">
-    <value>Tên không được dài quá {0} ký tự. Vui lòng nhập lại tên!</value>
+    <value>Tên không được dài quá {0} ký tự.</value>
   </data>
   <data name="letGoMakeCustomersHappy" xml:space="preserve">
     <value>Hãy làm cho khách hàng của bạn hài lòng!</value>
@@ -547,7 +547,7 @@
     <value>Vui lòng nhập mật khấu!</value>
   </data>
   <data name="passwordTooLong" xml:space="preserve">
-    <value>Mật khẩu không được dài quá {0} ký tự. Vui lòng nhập lại mật khẩu!</value>
+    <value>Mật khẩu không được dài quá {0} ký tự.</value>
   </data>
   <data name="payment" xml:space="preserve">
     <value>Thanh toán</value>
@@ -559,10 +559,10 @@
     <value>Số điện thoại không hợp lệ!</value>
   </data>
   <data name="phoneTooLong" xml:space="preserve">
-    <value>Số điện thoại không được vượt quá {0} ký tự! Vui lòng nhập lại số điện thoại!</value>
+    <value>Số điện thoại không được vượt quá {0} ký tự!</value>
   </data>
   <data name="phoneTooShort" xml:space="preserve">
-    <value>Số điện thoại phải nhiều hơn {0} ký tự! Vui lòng nhập lại số điện thoại!</value>
+    <value>Số điện thoại phải nhiều hơn {0} ký tự! </value>
   </data>
   <data name="pleaseEnterYourNewPassword" xml:space="preserve">
     <value>Nhập mật khẩu mới</value>
@@ -580,7 +580,7 @@
     <value>Vùng/Khu vực</value>
   </data>
   <data name="regionTooLong" xml:space="preserve">
-    <value>Tên vùng/khu vực không được dài quá {0} ký tự. Vui lòng nhập lại tên vùng/khu vực!</value>
+    <value>Tên vùng/khu vực không được dài quá {0} ký tự.</value>
   </data>
   <data name="remindClientBeforeServing" xml:space="preserve">
     <value>Nhắc nhở khách hàng trước</value>
@@ -631,7 +631,7 @@
     <value>Vui lòng nhập số CVV2!</value>
   </data>
   <data name="secureCodeTooLong" xml:space="preserve">
-    <value>CVV2 không được dài quá {0} ký tự. Vui lòng nhập lại CVV2!</value>
+    <value>CVV2 không được dài quá {0} ký tự.</value>
   </data>
   <data name="securityCode" xml:space="preserve">
     <value>Mã bảo mật</value>
@@ -787,7 +787,7 @@
     <value>Trang web</value>
   </data>
   <data name="websiteTooLong" xml:space="preserve">
-    <value>Địa chỉ trang web không được dài quá {0} ký tự. Vui lòng nhập lại địa chỉ trang web!</value>
+    <value>Địa chỉ trang web không được dài quá {0} ký tự.</value>
   </data>
   <data name="Wednesday" xml:space="preserve">
     <value>Thứ tư</value>
@@ -904,7 +904,7 @@
     <value>Bạn có muốn cập nhật vị trí công ty trên bản đồ?</value>
   </data>
   <data name="confirmUpdateUserRole" xml:space="preserve">
-    <value>Bạn muốn gán quyền"{0}" cho người dùng "{1}"?</value>
+    <value>Bạn muốn gán quyền "{0}" cho người dùng "{1}"?</value>
   </data>
   <data name="descriptChangeEmail" xml:space="preserve">
     <value>Email hoặc số điện thoại của bạn là</value>
@@ -1046,5 +1046,8 @@
   </data>
   <data name="close" xml:space="preserve">
     <value>Đóng</value>
+  </data>
+  <data name="existedEmailOrPhone" xml:space="preserve">
+    <value>Email hoặc số điện thoại đã tồn tại</value>
   </data>
 </root>

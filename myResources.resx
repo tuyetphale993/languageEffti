@@ -328,7 +328,7 @@
     <value>Email or phone</value>
   </data>
   <data name="emailOrPhoneInvalid" xml:space="preserve">
-    <value>Email or phone invalid!</value>
+    <value>Email or phone is invalid!</value>
   </data>
   <data name="emailOrPhoneNumber" xml:space="preserve">
     <value>Email or phone number</value>
@@ -969,9 +969,6 @@
   <data name="freeAppToFindServiceAndAppt" xml:space="preserve">
     <value>Use our FREE app to find services &amp; make appointment</value>
   </data>
-  <data name="happyCustomers" xml:space="preserve">
-    <value>Happy customers</value>
-  </data>
   <data name="happyYou" xml:space="preserve">
     <value>Happy you!</value>
   </data>
@@ -1029,9 +1026,6 @@
   <data name="noHaveOrgs" xml:space="preserve">
     <value>Your account is not linked to any organization. Please contact our system administrator for assistance.</value>
   </data>
-  <data name="noTicket" xml:space="preserve">
-    <value>No ticket</value>
-  </data>
   <data name="shotenDoctorList" xml:space="preserve">
     <value>Shoten Doctor List</value>
   </data>
@@ -1046,5 +1040,8 @@
   </data>
   <data name="close" xml:space="preserve">
     <value>Close</value>
+  </data>
+  <data name="existedEmailOrPhone" xml:space="preserve">
+    <value>Email or phone is existed</value>
   </data>
 </root>
