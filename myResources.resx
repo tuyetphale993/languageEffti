@@ -1044,4 +1044,7 @@
   <data name="existedEmailOrPhone" xml:space="preserve">
     <value>Email or phone is existed</value>
   </data>
+  <data name="emailSubjectVerification" xml:space="preserve">
+    <value>Subject Verification</value>
+  </data>
 </root>

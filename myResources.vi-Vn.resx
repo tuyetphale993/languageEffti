@@ -1050,4 +1050,7 @@
   <data name="existedEmailOrPhone" xml:space="preserve">
     <value>Email hoặc số điện thoại đã tồn tại</value>
   </data>
+  <data name="emailSubjectVerification" xml:space="preserve">
+    <value>Thông báo mã xác nhận</value>
+  </data>
 </root>
