@@ -847,25 +847,25 @@
     <value>Số đã gọi</value>
   </data>
   <data name="chooseAnOrgText" xml:space="preserve">
-    <value>Bạn có nhiều hơn một tổ thức, hãy chọn một tổ chức để tiếp tục.</value>
+    <value>Bạn có nhiều hơn một tổ chức, hãy chọn một tổ chức để tiếp tục.</value>
   </data>
   <data name="departmentExceptionTooltip" xml:space="preserve">
     <value>Nếu bạn không muốn tất cả bộ phần có cùng thiết lập lịch hẹn với công ty, bạn có thể thiết lập lịch hẹn cho từng bộ phận tại đây.</value>
   </data>
   <data name="ticketCalled" xml:space="preserve">
-    <value>{0} : Số đã được gọi</value>
+    <value>{0} thông báo đã đến số thứ tự của quý vị. Mời quý vị vào khám.</value>
   </data>
   <data name="ticketCanceled" xml:space="preserve">
-    <value>{0} : Số đã bị hủy</value>
+    <value>Lịch hẹn với {0} đã bị hủy</value>
   </data>
   <data name="ticketEstDateChanged" xml:space="preserve">
-    <value>{0} : Giờ hẹn đã được thay đổi</value>
+    <value>Thời gian hẹn với {0} đã bị thay đổi</value>
   </data>
   <data name="ticketPending" xml:space="preserve">
     <value>{0} : Đã sắp xếp lại giờ hẹn với quý vị</value>
   </data>
   <data name="ticketPickuped" xml:space="preserve">
-    <value>{0} : Số được xếp vào hàng đợi</value>
+    <value>{0} thông báo sắp đến số thứ tự của quý vị. Mời quý vị đến phòng khám.</value>
   </data>
   <data name="ticketSent" xml:space="preserve">
     <value>{0} : Số đã được gởi đến {1}</value>
@@ -1033,10 +1033,10 @@
     <value>Không có</value>
   </data>
   <data name="shotenDoctorList" xml:space="preserve">
-    <value>Rút ngắn danh sách</value>
+    <value>Rút gọn danh sách</value>
   </data>
-  <data name="TicketNoShow" xml:space="preserve">
-    <value>No show</value>
+  <data name="ticketNoShow" xml:space="preserve">
+    <value>{0} thông báo là quý vị đã không đến khám theo lịch hẹn.</value>
   </data>
   <data name="emailSubjectNotify" xml:space="preserve">
     <value>Thông báo</value>
@@ -1052,5 +1052,80 @@
   </data>
   <data name="emailSubjectVerification" xml:space="preserve">
     <value>Thông báo mã xác nhận</value>
+  </data>
+  <data name="mobileRequired" xml:space="preserve">
+    <value>Vui lòng nhập số điện thoại!</value>
+  </data>
+  <data name="checkInFailed" xml:space="preserve">
+    <value>Check-in thất bại!</value>
+  </data>
+  <data name="checkInSuccess" xml:space="preserve">
+    <value>Check-in thành công!</value>
+  </data>
+  <data name="confirmDeleteLinkToGdr" xml:space="preserve">
+    <value>Các thông tin bạn liên kết với Globedr sẽ bị xóa. Bạn có đồng ý không?</value>
+  </data>
+  <data name="day" xml:space="preserve">
+    <value>Ngày</value>
+  </data>
+  <data name="loadEfftiApikeyFailed" xml:space="preserve">
+    <value>Tải Effti API Key thất bại!</value>
+  </data>
+  <data name="loadDeptByGdrApiKeyFailed" xml:space="preserve">
+    <value>Tải thông tin bằng GlobeDr API Key thất bại!</value>
+  </data>
+  <data name="loadTicKetFailed" xml:space="preserve">
+    <value>Lấy thông tin vé thất bại!</value>
+  </data>
+  <data name="mobileInvalid" xml:space="preserve">
+    <value>Số điện thoại không hợp lệ!</value>
+  </data>
+  <data name="month" xml:space="preserve">
+    <value>Tháng</value>
+  </data>
+  <data name="toTimeThanFromTime" xml:space="preserve">
+    <value>Thời gian kết thúc phải lớn hơn thời gian bắt đầu</value>
+  </data>
+  <data name="efftiUpdateGdrApiKeyFailed" xml:space="preserve">
+    <value>Cập nhật GlobeDr API Key thất bại!</value>
+  </data>
+  <data name="week" xml:space="preserve">
+    <value>Tuần</value>
+  </data>
+  <data name="year" xml:space="preserve">
+    <value>Năm</value>
+  </data>
+  <data name="dayOfWeeksRequired" xml:space="preserve">
+    <value>Vui lòng chọn ngày trong tuần!</value>
+  </data>
+  <data name="displayNameRequired" xml:space="preserve">
+    <value>Vui lòng nhập tên hiển thị!</value>
+  </data>
+  <data name="emailOrPhoneExisted" xml:space="preserve">
+    <value>Email hoặc số điện thoại đã tồn tại!</value>
+  </data>
+  <data name="emailSubjectSignup" xml:space="preserve">
+    <value>Thông tin đăng kí</value>
+  </data>
+  <data name="encodeStringRequired" xml:space="preserve">
+    <value>Vui lòng xác thực bạn với hệ thống!</value>
+  </data>
+  <data name="encodeTringInvalid" xml:space="preserve">
+    <value>Vui lòng xác thực bạn với hệ thống!</value>
+  </data>
+  <data name="fromTimeRequired" xml:space="preserve">
+    <value>Vui lòng nhập thời gian kết thúc!</value>
+  </data>
+  <data name="gdrAssignedApiKey" xml:space="preserve">
+    <value>Liên kết với GlobeDr </value>
+  </data>
+  <data name="maxQtyRequired" xml:space="preserve">
+    <value>Vui lòng nhập số lượng vé tối đa!</value>
+  </data>
+  <data name="shiftNameRequired" xml:space="preserve">
+    <value>Vui lòng nhập tên ca!</value>
+  </data>
+  <data name="toTimeRequired" xml:space="preserve">
+    <value>Vui lòng nhập thời gian bắt đầu!</value>
   </data>
 </root>
