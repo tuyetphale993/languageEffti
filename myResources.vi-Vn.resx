@@ -1113,19 +1113,23 @@
   <data name="encodeTringInvalid" xml:space="preserve">
     <value>Vui lòng xác thực bạn với hệ thống!</value>
   </data>
-  <data name="fromTimeRequired" xml:space="preserve">
-    <value>Vui lòng nhập thời gian kết thúc!</value>
-  </data>
   <data name="gdrAssignedApiKey" xml:space="preserve">
     <value>Liên kết với GlobeDr </value>
   </data>
   <data name="maxQtyRequired" xml:space="preserve">
-    <value>Vui lòng nhập số lượng vé tối đa!</value>
+    <value>Nhập số vé!</value>
   </data>
   <data name="shiftNameRequired" xml:space="preserve">
     <value>Vui lòng nhập tên ca!</value>
   </data>
-  <data name="toTimeRequired" xml:space="preserve">
-    <value>Vui lòng nhập thời gian bắt đầu!</value>
+  <data name="confirmDeleteAllSettings" xml:space="preserve">
+    <value>&lt;p&gt;Bạn có muốn xóa tất cả cài đặt của dịch vụ này? &lt;/p&gt;
+&lt;p&gt;Dịch vụ của bạn sẽ được thiết lập theo thiết lập của công ty!&lt;/p&gt;</value>
+  </data>
+  <data name="fromToTimeRequired" xml:space="preserve">
+    <value>Vui lòng nhập đầy đủ thời gian!</value>
+  </data>
+  <data name="useSetUpOfCompany" xml:space="preserve">
+    <value>Dùng thiết lập chung của công ty</value>
   </data>
 </root>

@@ -1107,9 +1107,6 @@
   <data name="encodeTringInvalid" xml:space="preserve">
     <value>Encode string is invalid!</value>
   </data>
-  <data name="fromTimeRequired" xml:space="preserve">
-    <value>From time is required!</value>
-  </data>
   <data name="gdrAssignedApiKey" xml:space="preserve">
     <value>GlobeDr assigned Apikey</value>
   </data>
@@ -1119,10 +1116,17 @@
   <data name="shiftNameRequired" xml:space="preserve">
     <value>Shift name is required!</value>
   </data>
-  <data name="toTimeRequired" xml:space="preserve">
-    <value>To time is required!</value>
-  </data>
   <data name="updateGdrApiKeyFailed" xml:space="preserve">
     <value>Update Gdr API Key is Failed!</value>
+  </data>
+  <data name="confirmDeleteAllSettings" xml:space="preserve">
+    <value>&lt;p&gt;Would you like to remove all setting for this service?&lt;/p&gt;
+&lt;p&gt;Your service will be setup like the company!&lt;/p&gt;</value>
+  </data>
+  <data name="fromToTimeRequired" xml:space="preserve">
+    <value>From Time &amp; To Time are required!</value>
+  </data>
+  <data name="useSetUpOfCompany" xml:space="preserve">
+    <value>Use setup of company</value>
   </data>
 </root>
