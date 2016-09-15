@@ -1156,4 +1156,7 @@
   <data name="serviceLinkToGdr" xml:space="preserve">
     <value>Liên kết với API</value>
   </data>
+  <data name="fileTypeInvalid" xml:space="preserve">
+    <value>Vui lòng chọn chọn file dạng hình ảnh!</value>
+  </data>
 </root>

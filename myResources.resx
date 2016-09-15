@@ -1141,6 +1141,9 @@
   <data name="expiredDateInvalid" xml:space="preserve">
     <value>Time is invalid!</value>
   </data>
+  <data name="fileTypeInvalid" xml:space="preserve">
+    <value>File type is invalid. Please choose file have type image!</value>
+  </data>
   <data name="firstNameRequiredWithMaxLen" xml:space="preserve">
     <value>First name is required. First name must be less than {0} characters!</value>
   </data>
