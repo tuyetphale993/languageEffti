@@ -1129,4 +1129,31 @@
   <data name="useSetUpOfCompany" xml:space="preserve">
     <value>Use setup of company</value>
   </data>
+  <data name="characterInvalid" xml:space="preserve">
+    <value>Character is invalid!</value>
+  </data>
+  <data name="confirmChangeTicketStatus" xml:space="preserve">
+    <value>Would you like to change ticket status to "{0}"?</value>
+  </data>
+  <data name="emailRequiredWithMaxLen" xml:space="preserve">
+    <value>Email is required. Email must be less than {0} characters!</value>
+  </data>
+  <data name="expiredDateInvalid" xml:space="preserve">
+    <value>Time is invalid!</value>
+  </data>
+  <data name="firstNameRequiredWithMaxLen" xml:space="preserve">
+    <value>First name is required. First name must be less than {0} characters!</value>
+  </data>
+  <data name="lastNameRequiredWithMaxLen" xml:space="preserve">
+    <value>Last name is required. Last name must be less than {0} characters!</value>
+  </data>
+  <data name="loadReportFailed" xml:space="preserve">
+    <value>Load report is failed!</value>
+  </data>
+  <data name="phoneLengthInvalid" xml:space="preserve">
+    <value>Email must be more than {0} and less than {1} characters!</value>
+  </data>
+  <data name="serviceLinkToGdr" xml:space="preserve">
+    <value>Link to</value>
+  </data>
 </root>
