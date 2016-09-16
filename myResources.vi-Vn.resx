@@ -1159,4 +1159,13 @@
   <data name="fileTypeInvalid" xml:space="preserve">
     <value>Vui lòng chọn chọn file dạng hình ảnh!</value>
   </data>
+  <data name="fromDateRequired" xml:space="preserve">
+    <value>Vui lòng nhập thời gian bắt đầu!</value>
+  </data>
+  <data name="holidayNameRequired" xml:space="preserve">
+    <value>Vui lòng nhập tên ngày nghỉ!</value>
+  </data>
+  <data name="toDateRequired" xml:space="preserve">
+    <value>Vui lòng nhập thời gian kết thúc!</value>
+  </data>
 </root>

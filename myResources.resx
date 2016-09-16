@@ -1159,4 +1159,13 @@
   <data name="serviceLinkToGdr" xml:space="preserve">
     <value>Link to</value>
   </data>
+  <data name="fromDateRequired" xml:space="preserve">
+    <value>From date is required!</value>
+  </data>
+  <data name="holidayNameRequired" xml:space="preserve">
+    <value>Holiday name is required!</value>
+  </data>
+  <data name="toDateRequired" xml:space="preserve">
+    <value>To date is required!</value>
+  </data>
 </root>
