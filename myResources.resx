@@ -865,7 +865,7 @@
     <value>{0} : Ticket was re-scheduled</value>
   </data>
   <data name="ticketPickuped" xml:space="preserve">
-    <value>{0} : Ticket was pickuped to waiting list</value>
+    <value>{0} : Ticket was picked up to waiting list</value>
   </data>
   <data name="ticketSent" xml:space="preserve">
     <value>{0} : Ticket sent to {1}</value>
