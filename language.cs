@@ -112,7 +112,7 @@ namespace Languages
             return String.Format(format, values);
         }
 
-        internal static string Type2Text(CommonTypes.ApiStatusCode key, CommonTypes.SysLanguage lang)
+        public static string Type2Text(CommonTypes.ApiStatusCode key, CommonTypes.SysLanguage lang)
         {
             return GetString(lang, key.ToString());
         }

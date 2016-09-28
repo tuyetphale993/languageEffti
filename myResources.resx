@@ -123,9 +123,6 @@
   <data name="accountDetails" xml:space="preserve">
     <value>Account details</value>
   </data>
-  <data name="addDepartment" xml:space="preserve">
-    <value>Add department</value>
-  </data>
   <data name="addNew" xml:space="preserve">
     <value>Add new</value>
   </data>
@@ -140,9 +137,6 @@
   </data>
   <data name="advancedSettings" xml:space="preserve">
     <value>Advanced Settings</value>
-  </data>
-  <data name="allDepartments" xml:space="preserve">
-    <value>All departments</value>
   </data>
   <data name="announcement" xml:space="preserve">
     <value>Announcement</value>
@@ -565,10 +559,10 @@
     <value>Phone must be greater than {0} characters!</value>
   </data>
   <data name="pleaseEnterYourNewPassword" xml:space="preserve">
-    <value>Please enter your new password</value>
+    <value>Please enter your new password!</value>
   </data>
   <data name="pleaseLogIn" xml:space="preserve">
-    <value>Please log in</value>
+    <value>Please log in!</value>
   </data>
   <data name="refresh" xml:space="preserve">
     <value>Refresh</value>
@@ -641,9 +635,6 @@
   </data>
   <data name="select" xml:space="preserve">
     <value>Select</value>
-  </data>
-  <data name="selectADepartment" xml:space="preserve">
-    <value>Select a department</value>
   </data>
   <data name="send" xml:space="preserve">
     <value>Send</value>
@@ -913,7 +904,7 @@
     <value>New email or phone</value>
   </data>
   <data name="pleaseChooseOndate" xml:space="preserve">
-    <value>Please Choose A Date</value>
+    <value>Please choose a date!</value>
   </data>
   <data name="sentConfCodeFail" xml:space="preserve">
     <value>Confirm code sent failed</value>
@@ -1024,7 +1015,7 @@
     <value>ID Card</value>
   </data>
   <data name="noHaveOrgs" xml:space="preserve">
-    <value>Your account is not linked to any organization. Please contact our system administrator for assistance.</value>
+    <value>Your account is not linked to any organization. You could sign up to create your organization.</value>
   </data>
   <data name="shotenDoctorList" xml:space="preserve">
     <value>Shoten Doctor List</value>
@@ -1062,9 +1053,6 @@
   <data name="day" xml:space="preserve">
     <value>Day</value>
   </data>
-  <data name="loadEfftiApikeyFailed" xml:space="preserve">
-    <value>Load Effti API Key is failed!</value>
-  </data>
   <data name="loadDeptByGdrApiKeyFailed" xml:space="preserve">
     <value>Load department by Gdr API Key is failed!</value>
   </data>
@@ -1079,9 +1067,6 @@
   </data>
   <data name="toTimeThanFromTime" xml:space="preserve">
     <value>To time must be larger than from time!</value>
-  </data>
-  <data name="efftiUpdateGdrApiKeyFailed" xml:space="preserve">
-    <value>Update Globedr API Key is failed!</value>
   </data>
   <data name="week" xml:space="preserve">
     <value>Week</value>
@@ -1167,5 +1152,17 @@
   </data>
   <data name="toDateRequired" xml:space="preserve">
     <value>To date is required!</value>
+  </data>
+  <data name="addService" xml:space="preserve">
+    <value>Add service</value>
+  </data>
+  <data name="allServices" xml:space="preserve">
+    <value>All services</value>
+  </data>
+  <data name="editAPIKey" xml:space="preserve">
+    <value>Edit API Key</value>
+  </data>
+  <data name="selectAService" xml:space="preserve">
+    <value>Select a service</value>
   </data>
 </root>

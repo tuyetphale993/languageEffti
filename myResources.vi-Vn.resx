@@ -123,9 +123,6 @@
   <data name="accountDetails" xml:space="preserve">
     <value>Thông tin tài khoản</value>
   </data>
-  <data name="addDepartment" xml:space="preserve">
-    <value>Thêm phòng ban</value>
-  </data>
   <data name="addNew" xml:space="preserve">
     <value>Thêm mới</value>
   </data>
@@ -140,9 +137,6 @@
   </data>
   <data name="advancedSettings" xml:space="preserve">
     <value>Thiết lập nâng cao</value>
-  </data>
-  <data name="allDepartments" xml:space="preserve">
-    <value>Tất cả phòng ban</value>
   </data>
   <data name="announcement" xml:space="preserve">
     <value>Gọi số</value>
@@ -642,9 +636,6 @@
   <data name="select" xml:space="preserve">
     <value>Chọn</value>
   </data>
-  <data name="selectADepartment" xml:space="preserve">
-    <value>Chọn phòng ban</value>
-  </data>
   <data name="send" xml:space="preserve">
     <value>Gửi</value>
   </data>
@@ -1024,7 +1015,7 @@
     <value>Số CMND</value>
   </data>
   <data name="noHaveOrgs" xml:space="preserve">
-    <value>Tài khoản của bạn không được liên kết đến tổ chức nào cả. Bạn vui lòng liên hệ với quản trị hệ thống để được hỗ trợ.</value>
+    <value>Tài khoản của bạn không được liên kết đến tổ chức nào cả. Bạn có thể đăng kí để tạo tổ chức cho mình.</value>
   </data>
   <data name="noTicket" xml:space="preserve">
     <value>Không có</value>
@@ -1065,9 +1056,6 @@
   <data name="day" xml:space="preserve">
     <value>Ngày</value>
   </data>
-  <data name="loadEfftiApikeyFailed" xml:space="preserve">
-    <value>Tải Effti API Key thất bại!</value>
-  </data>
   <data name="loadDeptByGdrApiKeyFailed" xml:space="preserve">
     <value>Tải thông tin bằng GlobeDr API Key thất bại!</value>
   </data>
@@ -1082,9 +1070,6 @@
   </data>
   <data name="toTimeThanFromTime" xml:space="preserve">
     <value>Thời gian kết thúc phải lớn hơn thời gian bắt đầu</value>
-  </data>
-  <data name="efftiUpdateGdrApiKeyFailed" xml:space="preserve">
-    <value>Cập nhật GlobeDr API Key thất bại!</value>
   </data>
   <data name="week" xml:space="preserve">
     <value>Tuần</value>
@@ -1167,5 +1152,17 @@
   </data>
   <data name="toDateRequired" xml:space="preserve">
     <value>Vui lòng nhập thời gian kết thúc!</value>
+  </data>
+  <data name="addService" xml:space="preserve">
+    <value>Thêm dịch vụ</value>
+  </data>
+  <data name="allServices" xml:space="preserve">
+    <value>Tất cả dịch vụ</value>
+  </data>
+  <data name="editAPIKey" xml:space="preserve">
+    <value>Đổi API Key</value>
+  </data>
+  <data name="selectAService" xml:space="preserve">
+    <value>Chọn dịch vụ</value>
   </data>
 </root>
