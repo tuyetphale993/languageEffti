@@ -1165,4 +1165,7 @@
   <data name="selectAService" xml:space="preserve">
     <value>Chọn dịch vụ</value>
   </data>
+  <data name="pleaseAddServices" xml:space="preserve">
+    <value>Vui lòng thêm dịch vụ!</value>
+  </data>
 </root>
